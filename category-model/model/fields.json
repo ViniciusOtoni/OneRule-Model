@@ -1,0 +1,57 @@
+[
+    {
+        "name": "antecedentes_criminais",
+        "type": "Custom List",
+        "values": ["Sim", "Não"]
+    },
+    {
+        "name": "profissao",
+        "type": "Custom List",
+        "values": ["Empregado", "Autônomo", "Desempregado", "Aposentado", "Estudante"]
+    },
+    {
+        "name": "carga_horaria",
+        "type": "Custom List",
+        "values": ["Integral", "Parcial", "Outros"]
+    },
+    {
+        "name": "estado_civil",
+        "type": "Custom List",
+        "values": ["Solteiro", "Casado", "Divorciado", "Viúvo"]
+    },
+    {
+        "name": "renda_familiar",
+        "type": "Custom List",
+        "values": ["Baixa", "Média", "Alta"]
+    },
+    {
+        "name": "possui_imovel",
+        "type": "Custom List",
+        "values": ["Sim", "Não"]
+    },
+    {
+        "name": "tempo_emprego",
+        "type": "Custom List",
+        "values": ["Menos de 1 ano", "1 a 3 anos", "3 a 5 anos", "Mais de 5 anos"]
+    },
+    {
+        "name": "garantias",
+        "type": "Custom List",
+        "values": ["Nenhuma", "Fiador", "Imóvel", "Outros"]
+    },
+    {
+        "name": "faixa_etaria",
+        "type": "Custom List",
+        "values": ["Jovem", "Adulto", "Idoso"]
+    },
+    {
+        "name": "tipo_operacao",
+        "type": "Custom List",
+        "values": ["Crédito Consignado", "Crédito Pessoal", "Financiamento", "Cartão de Crédito"]
+    },
+    {
+        "name": "score_credito",
+        "type": "Custom List",
+        "values": ["Baixo", "Médio", "Alto"]
+    }
+]
