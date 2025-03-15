@@ -1,122 +1,169 @@
-import os
+from collections import defaultdict
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, classification_report
 
 class OneRuleClassifier:
     """
-    Implementação simples do algoritmo OneRule.
-    Para cada feature, gera uma regra que, para cada valor, prevê a classe majoritária.
-    Em seguida, seleciona a feature que minimiza o erro total de classificação.
+    Implementação aprimorada do algoritmo OneRule com:
+    - Tratamento de valores ausentes/não vistos
+    - Verificação de distribuição de classes
+    - Logs detalhados para debug
     """
-    def __init__(self):
+    def __init__(self, verbose=False):
         self.best_feature = None
-        self.rule = {}
-        self.error = None
-        self.default_class = None  # Valor padrão para casos não mapeados
+        self.feature_rules = {}
+        self.default_class = None
+        self.verbose = verbose
+        self.class_distribution = None
+
+    def _create_rule_for_feature(self, X_feature, y):
+        rule = {}
+        error = 0
+        total = 0
+        
+        # Agrupa por valores da feature e encontra a classe majoritária
+        value_counts = X_feature.value_counts()
+        
+        for value, count in value_counts.items():
+            subset = y[X_feature == value]
+            if subset.empty:
+                continue
+                
+            majority_class = subset.mode()[0]
+            class_counts = subset.value_counts()
+            rule[value] = {
+                'class': majority_class,
+                'confidence': class_counts[majority_class] / len(subset)
+            }
+            error += len(subset) - class_counts[majority_class]
+            total += len(subset)
+
+        # Calcula erro total e trata divisão por zero
+        error_rate = error / total if total > 0 else 1.0
+        return rule, error_rate
 
     def fit(self, X, y):
+        if len(y.unique()) == 1:
+            raise ValueError("Todos os exemplos pertencem à mesma classe")
+            
+        self.class_distribution = y.value_counts(normalize=True)
+        self.default_class = y.mode()[0]
+        
         best_error = float('inf')
         best_feature = None
         best_rule = {}
-        # Define o valor padrão global (classe majoritária) para o caso de valores não vistos
-        self.default_class = y.mode()[0]
-        
-        # Itera sobre cada feature para criar a regra
+
         for feature in X.columns:
-            rule = {}
-            error = 0
-            # Para cada valor único da feature, define a classe majoritária
-            for value in X[feature].unique():
-                mask = X[feature] == value
-                majority_class = y[mask].mode()[0]
-                rule[value] = majority_class
-                error += (y[mask] != majority_class).sum()
-            # Seleciona a feature com menor erro total
-            if error < best_error:
-                best_error = error
+            feature_data = X[feature]
+            rule, error_rate = self._create_rule_for_feature(feature_data, y)
+            
+            if self.verbose:
+                print(f"Feature: {feature}")
+                print(f"Error rate: {error_rate:.4f}")
+                print(f"Rule: {rule}\n")
+            
+            if error_rate < best_error:
+                best_error = error_rate
                 best_feature = feature
                 best_rule = rule
-                
+
         self.best_feature = best_feature
-        self.rule = best_rule
-        self.error = best_error
+        self.feature_rules = best_rule
+        
+        if self.verbose:
+            print(f"Melhor feature: {best_feature}")
+            print(f"Erro: {best_error:.4f}")
+            print(f"Regra final: {best_rule}")
 
     def predict(self, X):
+        if self.best_feature is None:
+            raise ValueError("Modelo não foi treinado")
+            
         predictions = []
-        # Utiliza a regra da melhor feature para cada exemplo
-        for _, row in X.iterrows():
-            value = row[self.best_feature]
-            # Se o valor não estiver mapeado, utiliza o valor padrão (classe majoritária)
-            predictions.append(self.rule.get(value, self.default_class))
-        return predictions
-
-
-class OneRuleCreditApprovalModel:
-    """
-    Modelo para prever a aprovação de crédito utilizando o algoritmo OneRule.
-    
-    Dataset esperado:
-      - antecedentes_criminais
-      - profissao
-      - carga_horaria
-      - estado_civil
-      - renda_familiar
-      - possui_imovel
-      - tempo_emprego
-      - garantias
-      - faixa_etaria
-      - tipo_operacao
-      - score_credito
-      
-    O target 'aprovacao_credito' é derivado de 'score_credito':
-      - Se score_credito for codificado como 0 ("Alto"), então aprovação é 1.
-      - Caso contrário, aprovação é 0.
-      
-    Todas as demais colunas são utilizadas como features.
-    """
-    def __init__(self, cleaned_data_path):
-        self.cleaned_data_path = cleaned_data_path
-        self.model = OneRuleClassifier()
-
-    def load_data(self):
-        self.df = pd.read_csv(self.cleaned_data_path, header=0)
-
-    def prepare_data(self):
-        if 'score_credito' not in self.df.columns:
-            raise ValueError("A coluna 'score_credito' não foi encontrada no dataset.")
+        feature_values = X[self.best_feature]
         
-        # Deriva o target: crédito aprovado (1) se score_credito for 0 ("Alto"), 0 caso contrário.
-        self.df['aprovacao_credito'] = self.df['score_credito'].apply(lambda x: 1 if x == 0 else 0)
-        
-        # Define as features removendo score_credito e o target derivado
-        self.X = self.df.drop(['score_credito', 'aprovacao_credito'], axis=1)
-        self.y = self.df['aprovacao_credito']
-        
-        print("Dados preparados. Features:", self.X.columns.tolist())
+        for value in feature_values:
+            if value in self.feature_rules:
+                predictions.append(self.feature_rules[value]['class'])
+            else:
+                predictions.append(self.default_class)
+                
+        return pd.Series(predictions, index=X.index)
 
-    def train_model(self):
-        # Divide os dados em treinamento (80%) e teste (20%)
-        X_train, X_test, y_train, y_test = train_test_split(
-            self.X, self.y, test_size=0.2, random_state=42
-        )
-        self.model.fit(X_train, y_train)
-        y_pred = self.model.predict(X_test)
-        acc = accuracy_score(y_test, y_pred)
-    
-
-
-        print(self.y.value_counts())
-        print("Acurácia do modelo:", acc)
+    def evaluate(self, X, y):
+        y_pred = self.predict(X)
+        acc = accuracy_score(y, y_pred)
+        print(f"Acurácia: {acc:.4f}")
         print("Relatório de Classificação:")
-        print(classification_report(y_test, y_pred, zero_division=0))
+        print(classification_report(y, y_pred, zero_division=0))
 
-    def run(self):
-        """
-        Executa o pipeline completo: carrega os dados, prepara, treina e avalia o modelo.
-        """
-        self.load_data()
-        self.prepare_data()
-        self.train_model()
+class CreditApprovalModel:
+    """
+    Modelo aprimorado para aprovação de crédito com:
+    - Validação de dados
+    - Balanceamento de classes
+    - Análise exploratória integrada
+    """
+    def __init__(self, data_path, test_size=0.2, random_state=42, verbose=False):
+        self.data_path = data_path
+        self.model = OneRuleClassifier(verbose=verbose)
+        self.test_size = test_size
+        self.random_state = random_state
+        self.data = None
+        self.X_train = self.X_test = None
+        self.y_train = self.y_test = None
 
+    def load_and_prepare_data(self):
+        # Carregar e validar dados
+        self.data = pd.read_csv(self.data_path)
+        
+        if 'score_credito' not in self.data.columns:
+            raise ValueError("Coluna 'score_credito' não encontrada")
+            
+        # Criar target
+        self.data['aprovacao_credito'] = self.data['score_credito'].map({0: 1, 1: 0, 2: 0})
+        
+        # Verificar balanceamento
+        class_dist = self.data['aprovacao_credito'].value_counts()
+        print("Distribuição de Classes:")
+        print(class_dist)
+        
+        if abs(class_dist[0] - class_dist[1]) > 0.7 * len(self.data):
+            print("\nAviso: Desbalanceamento significativo de classes detectado!")
 
+        # Separar features e target
+        X = self.data.drop(['score_credito', 'aprovacao_credito'], axis=1)
+        y = self.data['aprovacao_credito']
+        
+        # Divisão treino-teste
+        self.X_train, self.X_test, self.y_train, self.y_test = train_test_split(
+            X, y, 
+            test_size=self.test_size, 
+            random_state=self.random_state,
+            stratify=y
+        )
+
+    def train(self):
+        self.model.fit(self.X_train, self.y_train)
+        
+        print("\nPerformance no Treino:")
+        self.model.evaluate(self.X_train, self.y_train)
+        
+        print("\nPerformance no Teste:")
+        self.model.evaluate(self.X_test, self.y_test)
+
+    def get_feature_importance(self):
+        if self.model.best_feature is None:
+            return None
+            
+        return {
+            'best_feature': self.model.best_feature,
+            'rules': self.model.feature_rules,
+            'default_class': self.model.default_class
+        }
+
+    def run_pipeline(self):
+        self.load_and_prepare_data()
+        self.train()
+        return self.get_feature_importance()

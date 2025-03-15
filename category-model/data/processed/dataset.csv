@@ -1,0 +1,1001 @@
+antecedentes_criminais,profissao,carga_horaria,estado_civil,renda_familiar,possui_imovel,tempo_emprego,garantias,faixa_etaria,tipo_operacao,score_credito,aprovacao_credito,aprovacao_credito_prevista
+NÃ£o,Estudante,Outros,Solteiro,MÃ©dia,Sim,Menos de 1 ano,Fiador,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Desempregado,Parcial,Casado,MÃ©dia,NÃ£o,3 a 5 anos,ImÃ³vel,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Aposentado,Parcial,Casado,MÃ©dia,NÃ£o,3 a 5 anos,Fiador,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Aposentado,Outros,Casado,MÃ©dia,NÃ£o,1 a 3 anos,ImÃ³vel,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,AutÃ´nomo,Outros,Casado,Baixa,Sim,Mais de 5 anos,Fiador,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Estudante,Integral,Casado,Alta,Sim,Menos de 1 ano,Nenhuma,Jovem,Financiamento,Alto,1,0
+NÃ£o,Desempregado,Outros,Divorciado,Baixa,Sim,3 a 5 anos,Outros,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Empregado,Integral,Solteiro,MÃ©dia,NÃ£o,1 a 3 anos,Fiador,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Aposentado,Integral,Casado,MÃ©dia,Sim,1 a 3 anos,Outros,Idoso,CrÃ©dito Consignado,Alto,1,0
+Sim,Estudante,Outros,Casado,Alta,Sim,Menos de 1 ano,Outros,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Aposentado,Parcial,Casado,MÃ©dia,Sim,Menos de 1 ano,Fiador,Jovem,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Desempregado,Integral,Solteiro,MÃ©dia,Sim,3 a 5 anos,Outros,Jovem,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Aposentado,Parcial,Solteiro,Alta,NÃ£o,1 a 3 anos,ImÃ³vel,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Desempregado,Parcial,Divorciado,MÃ©dia,Sim,Menos de 1 ano,Fiador,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Parcial,Divorciado,Baixa,NÃ£o,3 a 5 anos,ImÃ³vel,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Parcial,Divorciado,Baixa,Sim,Menos de 1 ano,ImÃ³vel,Idoso,CrÃ©dito Pessoal,Alto,1,0
+Sim,AutÃ´nomo,Parcial,ViÃºvo,Baixa,Sim,1 a 3 anos,Nenhuma,Idoso,Financiamento,Alto,1,0
+Sim,Aposentado,Integral,Divorciado,Alta,Sim,3 a 5 anos,Nenhuma,Idoso,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Empregado,Parcial,Solteiro,Baixa,NÃ£o,1 a 3 anos,Fiador,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Desempregado,Integral,ViÃºvo,MÃ©dia,NÃ£o,3 a 5 anos,Outros,Adulto,CrÃ©dito Pessoal,Alto,1,0
+Sim,Estudante,Outros,Casado,MÃ©dia,NÃ£o,Menos de 1 ano,Outros,Adulto,Financiamento,MÃ©dio,0,0
+Sim,Aposentado,Parcial,Solteiro,Alta,NÃ£o,Mais de 5 anos,ImÃ³vel,Jovem,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,AutÃ´nomo,Outros,ViÃºvo,Alta,NÃ£o,Menos de 1 ano,Fiador,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Desempregado,Outros,Divorciado,Baixa,NÃ£o,Menos de 1 ano,Nenhuma,Adulto,Financiamento,MÃ©dio,0,0
+Sim,Desempregado,Outros,Divorciado,Baixa,NÃ£o,Menos de 1 ano,Fiador,Jovem,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Empregado,Outros,Divorciado,Alta,Sim,3 a 5 anos,ImÃ³vel,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Empregado,Parcial,Solteiro,MÃ©dia,NÃ£o,Menos de 1 ano,Nenhuma,Adulto,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Empregado,Parcial,Solteiro,Baixa,NÃ£o,1 a 3 anos,Fiador,Jovem,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,AutÃ´nomo,Parcial,ViÃºvo,MÃ©dia,NÃ£o,Menos de 1 ano,Outros,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Empregado,Integral,ViÃºvo,Alta,NÃ£o,Mais de 5 anos,ImÃ³vel,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Desempregado,Outros,ViÃºvo,MÃ©dia,Sim,Mais de 5 anos,Nenhuma,Jovem,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Aposentado,Outros,Solteiro,MÃ©dia,Sim,3 a 5 anos,Nenhuma,Jovem,Financiamento,Alto,1,0
+NÃ£o,Desempregado,Outros,Solteiro,Baixa,NÃ£o,Mais de 5 anos,ImÃ³vel,Adulto,Financiamento,MÃ©dio,0,0
+Sim,Estudante,Integral,Casado,Baixa,Sim,Menos de 1 ano,Nenhuma,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Aposentado,Outros,Divorciado,MÃ©dia,Sim,Mais de 5 anos,Outros,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Aposentado,Integral,Divorciado,Alta,Sim,1 a 3 anos,Fiador,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,AutÃ´nomo,Parcial,Divorciado,Baixa,NÃ£o,1 a 3 anos,Outros,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,AutÃ´nomo,Outros,ViÃºvo,Alta,Sim,Mais de 5 anos,ImÃ³vel,Adulto,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Desempregado,Parcial,Solteiro,MÃ©dia,Sim,Menos de 1 ano,ImÃ³vel,Idoso,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Aposentado,Integral,Casado,Baixa,Sim,3 a 5 anos,Outros,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Empregado,Outros,Solteiro,Alta,Sim,3 a 5 anos,Fiador,Idoso,Financiamento,Baixo,0,0
+NÃ£o,Desempregado,Integral,Divorciado,MÃ©dia,Sim,Menos de 1 ano,Fiador,Jovem,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Empregado,Parcial,Solteiro,Alta,NÃ£o,3 a 5 anos,Nenhuma,Jovem,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Desempregado,Integral,Casado,MÃ©dia,NÃ£o,1 a 3 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,AutÃ´nomo,Integral,Casado,Baixa,Sim,1 a 3 anos,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Empregado,Parcial,Divorciado,MÃ©dia,Sim,3 a 5 anos,Nenhuma,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Aposentado,Parcial,Solteiro,MÃ©dia,NÃ£o,Menos de 1 ano,Fiador,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Aposentado,Integral,Solteiro,Alta,Sim,3 a 5 anos,Outros,Adulto,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Aposentado,Integral,Casado,MÃ©dia,NÃ£o,Menos de 1 ano,ImÃ³vel,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Empregado,Outros,ViÃºvo,Alta,NÃ£o,Mais de 5 anos,ImÃ³vel,Jovem,Financiamento,Alto,1,0
+Sim,Desempregado,Integral,ViÃºvo,Baixa,NÃ£o,1 a 3 anos,Outros,Idoso,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Desempregado,Parcial,Solteiro,Alta,NÃ£o,1 a 3 anos,Nenhuma,Jovem,CrÃ©dito Consignado,Baixo,0,0
+Sim,Estudante,Parcial,Divorciado,Baixa,Sim,Menos de 1 ano,ImÃ³vel,Jovem,CrÃ©dito Consignado,Baixo,0,0
+Sim,AutÃ´nomo,Integral,Casado,MÃ©dia,NÃ£o,1 a 3 anos,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Aposentado,Outros,Solteiro,Baixa,NÃ£o,Menos de 1 ano,Fiador,Adulto,Financiamento,Baixo,0,0
+NÃ£o,Desempregado,Integral,ViÃºvo,Baixa,Sim,Mais de 5 anos,Fiador,Jovem,Financiamento,MÃ©dio,0,0
+Sim,Aposentado,Integral,Solteiro,Alta,NÃ£o,1 a 3 anos,Outros,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Aposentado,Integral,Divorciado,MÃ©dia,Sim,1 a 3 anos,Nenhuma,Jovem,Financiamento,MÃ©dio,0,0
+NÃ£o,Estudante,Outros,Casado,MÃ©dia,NÃ£o,Mais de 5 anos,ImÃ³vel,Idoso,Financiamento,Baixo,0,0
+Sim,Empregado,Integral,Casado,MÃ©dia,Sim,Mais de 5 anos,ImÃ³vel,Jovem,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Aposentado,Parcial,Divorciado,MÃ©dia,Sim,1 a 3 anos,ImÃ³vel,Adulto,Financiamento,MÃ©dio,0,0
+NÃ£o,Estudante,Integral,ViÃºvo,MÃ©dia,Sim,3 a 5 anos,ImÃ³vel,Adulto,Financiamento,MÃ©dio,0,0
+NÃ£o,Estudante,Integral,Solteiro,Alta,NÃ£o,Mais de 5 anos,Outros,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Estudante,Parcial,Solteiro,Alta,NÃ£o,Menos de 1 ano,Nenhuma,Adulto,Financiamento,Alto,1,0
+Sim,AutÃ´nomo,Parcial,Solteiro,MÃ©dia,Sim,3 a 5 anos,Nenhuma,Idoso,Financiamento,Baixo,0,0
+NÃ£o,Desempregado,Integral,Divorciado,Alta,NÃ£o,Menos de 1 ano,ImÃ³vel,Jovem,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Estudante,Parcial,Divorciado,MÃ©dia,Sim,Menos de 1 ano,Outros,Jovem,Financiamento,Baixo,0,0
+NÃ£o,Desempregado,Parcial,Divorciado,Alta,NÃ£o,1 a 3 anos,Outros,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Desempregado,Outros,ViÃºvo,Baixa,Sim,Menos de 1 ano,Outros,Idoso,Financiamento,Baixo,0,0
+Sim,Desempregado,Parcial,Solteiro,Alta,NÃ£o,3 a 5 anos,Nenhuma,Adulto,CrÃ©dito Consignado,Alto,1,0
+Sim,Empregado,Outros,ViÃºvo,Baixa,NÃ£o,1 a 3 anos,Outros,Idoso,CrÃ©dito Consignado,Baixo,0,0
+Sim,Empregado,Parcial,ViÃºvo,MÃ©dia,NÃ£o,Menos de 1 ano,ImÃ³vel,Jovem,Financiamento,Baixo,0,0
+Sim,Desempregado,Parcial,Solteiro,MÃ©dia,NÃ£o,3 a 5 anos,ImÃ³vel,Adulto,CrÃ©dito Pessoal,Alto,1,0
+Sim,Estudante,Outros,Casado,Alta,Sim,3 a 5 anos,Fiador,Adulto,CrÃ©dito Consignado,Baixo,0,0
+Sim,Aposentado,Parcial,Casado,MÃ©dia,Sim,3 a 5 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Desempregado,Integral,ViÃºvo,Alta,Sim,1 a 3 anos,Outros,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Desempregado,Parcial,Casado,Alta,Sim,3 a 5 anos,ImÃ³vel,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Aposentado,Outros,ViÃºvo,Alta,NÃ£o,Mais de 5 anos,Outros,Jovem,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Empregado,Parcial,ViÃºvo,MÃ©dia,Sim,1 a 3 anos,Nenhuma,Idoso,Financiamento,Alto,1,0
+NÃ£o,Estudante,Integral,Solteiro,Alta,NÃ£o,Mais de 5 anos,Nenhuma,Jovem,CrÃ©dito Pessoal,Alto,1,0
+Sim,Aposentado,Integral,Casado,MÃ©dia,Sim,3 a 5 anos,Outros,Adulto,Financiamento,Alto,1,0
+Sim,Empregado,Integral,ViÃºvo,Alta,NÃ£o,3 a 5 anos,Nenhuma,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,AutÃ´nomo,Integral,ViÃºvo,Baixa,NÃ£o,Menos de 1 ano,Nenhuma,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Empregado,Integral,Divorciado,Alta,NÃ£o,Mais de 5 anos,Nenhuma,Adulto,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Desempregado,Integral,Divorciado,Alta,Sim,1 a 3 anos,Outros,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,AutÃ´nomo,Parcial,ViÃºvo,MÃ©dia,NÃ£o,3 a 5 anos,Outros,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Empregado,Parcial,Solteiro,Baixa,NÃ£o,3 a 5 anos,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Desempregado,Parcial,Casado,MÃ©dia,NÃ£o,3 a 5 anos,Fiador,Idoso,CrÃ©dito Consignado,Alto,1,0
+Sim,Empregado,Parcial,Casado,MÃ©dia,Sim,3 a 5 anos,Outros,Idoso,CrÃ©dito Pessoal,Alto,1,0
+Sim,Estudante,Outros,Divorciado,Baixa,Sim,3 a 5 anos,Fiador,Jovem,Financiamento,Alto,1,0
+NÃ£o,Aposentado,Outros,Casado,MÃ©dia,NÃ£o,3 a 5 anos,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Aposentado,Integral,Divorciado,Alta,NÃ£o,3 a 5 anos,Fiador,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Aposentado,Parcial,Casado,Baixa,Sim,Mais de 5 anos,Fiador,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Empregado,Outros,ViÃºvo,MÃ©dia,Sim,3 a 5 anos,Outros,Adulto,CrÃ©dito Consignado,Alto,1,0
+Sim,AutÃ´nomo,Parcial,Casado,MÃ©dia,Sim,Mais de 5 anos,Nenhuma,Jovem,Financiamento,Alto,1,0
+Sim,Estudante,Parcial,Solteiro,MÃ©dia,Sim,Mais de 5 anos,Fiador,Adulto,Financiamento,Alto,1,0
+Sim,Desempregado,Integral,ViÃºvo,Alta,Sim,1 a 3 anos,ImÃ³vel,Jovem,Financiamento,Baixo,0,0
+Sim,AutÃ´nomo,Integral,Casado,Baixa,NÃ£o,Mais de 5 anos,Nenhuma,Idoso,CrÃ©dito Consignado,Alto,1,0
+Sim,Empregado,Parcial,Solteiro,Baixa,NÃ£o,3 a 5 anos,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Aposentado,Outros,Divorciado,MÃ©dia,NÃ£o,1 a 3 anos,Nenhuma,Jovem,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Estudante,Outros,Divorciado,Baixa,Sim,Menos de 1 ano,Fiador,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Outros,Divorciado,Alta,NÃ£o,1 a 3 anos,Nenhuma,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Empregado,Parcial,Casado,MÃ©dia,NÃ£o,Mais de 5 anos,Fiador,Jovem,Financiamento,Baixo,0,0
+Sim,Aposentado,Outros,ViÃºvo,MÃ©dia,Sim,Menos de 1 ano,Nenhuma,Jovem,Financiamento,Alto,1,0
+NÃ£o,Empregado,Integral,Divorciado,MÃ©dia,Sim,1 a 3 anos,Fiador,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Empregado,Parcial,ViÃºvo,MÃ©dia,Sim,1 a 3 anos,ImÃ³vel,Jovem,CrÃ©dito Pessoal,Alto,1,0
+Sim,Aposentado,Outros,Casado,Baixa,Sim,1 a 3 anos,Fiador,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Parcial,ViÃºvo,Alta,Sim,3 a 5 anos,Fiador,Adulto,CrÃ©dito Pessoal,Alto,1,0
+Sim,Estudante,Outros,Divorciado,MÃ©dia,NÃ£o,1 a 3 anos,Fiador,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Desempregado,Outros,Casado,Alta,NÃ£o,Mais de 5 anos,Outros,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Desempregado,Parcial,Solteiro,Baixa,Sim,Menos de 1 ano,ImÃ³vel,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Desempregado,Outros,ViÃºvo,Alta,NÃ£o,Mais de 5 anos,Outros,Idoso,CrÃ©dito Consignado,Baixo,0,0
+Sim,AutÃ´nomo,Parcial,Divorciado,MÃ©dia,NÃ£o,3 a 5 anos,Nenhuma,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Desempregado,Integral,ViÃºvo,Baixa,NÃ£o,1 a 3 anos,ImÃ³vel,Jovem,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Estudante,Integral,ViÃºvo,Baixa,NÃ£o,Menos de 1 ano,Nenhuma,Adulto,CrÃ©dito Consignado,Alto,1,0
+Sim,Aposentado,Parcial,ViÃºvo,Baixa,NÃ£o,Mais de 5 anos,ImÃ³vel,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Empregado,Outros,Casado,Baixa,Sim,Mais de 5 anos,Nenhuma,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Empregado,Integral,Divorciado,MÃ©dia,NÃ£o,1 a 3 anos,Fiador,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Outros,Divorciado,Alta,Sim,3 a 5 anos,ImÃ³vel,Adulto,CrÃ©dito Consignado,Baixo,0,0
+Sim,AutÃ´nomo,Outros,Casado,Baixa,NÃ£o,1 a 3 anos,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,AutÃ´nomo,Integral,Casado,Alta,Sim,1 a 3 anos,Outros,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Empregado,Outros,ViÃºvo,Baixa,Sim,Mais de 5 anos,ImÃ³vel,Idoso,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Estudante,Parcial,Solteiro,MÃ©dia,Sim,3 a 5 anos,Fiador,Jovem,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Desempregado,Integral,Divorciado,MÃ©dia,NÃ£o,Mais de 5 anos,Nenhuma,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Desempregado,Outros,ViÃºvo,Baixa,Sim,Mais de 5 anos,ImÃ³vel,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Outros,Casado,Alta,NÃ£o,3 a 5 anos,Outros,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Aposentado,Integral,ViÃºvo,Baixa,NÃ£o,1 a 3 anos,Fiador,Jovem,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Estudante,Outros,Solteiro,Alta,NÃ£o,1 a 3 anos,ImÃ³vel,Jovem,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Aposentado,Outros,Solteiro,Alta,NÃ£o,3 a 5 anos,Outros,Jovem,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Empregado,Integral,Casado,Baixa,NÃ£o,1 a 3 anos,Outros,Adulto,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Estudante,Parcial,Solteiro,Baixa,NÃ£o,Menos de 1 ano,ImÃ³vel,Idoso,Financiamento,Baixo,0,0
+Sim,AutÃ´nomo,Outros,Divorciado,Alta,Sim,3 a 5 anos,Fiador,Adulto,Financiamento,MÃ©dio,0,0
+Sim,Desempregado,Parcial,Casado,Alta,Sim,3 a 5 anos,Outros,Adulto,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Aposentado,Outros,Divorciado,Alta,NÃ£o,1 a 3 anos,Outros,Idoso,Financiamento,MÃ©dio,0,0
+NÃ£o,Empregado,Outros,Casado,Baixa,NÃ£o,Menos de 1 ano,ImÃ³vel,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Empregado,Outros,ViÃºvo,Baixa,NÃ£o,1 a 3 anos,Fiador,Idoso,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Aposentado,Parcial,Solteiro,Baixa,Sim,Menos de 1 ano,Fiador,Jovem,Financiamento,Alto,1,0
+NÃ£o,Empregado,Parcial,Solteiro,Baixa,Sim,3 a 5 anos,Outros,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Aposentado,Integral,Divorciado,MÃ©dia,NÃ£o,3 a 5 anos,Nenhuma,Jovem,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Empregado,Outros,Divorciado,Alta,NÃ£o,Mais de 5 anos,ImÃ³vel,Adulto,Financiamento,Alto,1,0
+Sim,Empregado,Integral,Divorciado,Baixa,Sim,Menos de 1 ano,Nenhuma,Adulto,CrÃ©dito Consignado,Alto,1,0
+Sim,Desempregado,Integral,Solteiro,Alta,NÃ£o,Menos de 1 ano,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Desempregado,Parcial,Divorciado,MÃ©dia,NÃ£o,3 a 5 anos,Nenhuma,Jovem,Financiamento,Alto,1,0
+Sim,Aposentado,Outros,ViÃºvo,Alta,NÃ£o,Menos de 1 ano,Outros,Jovem,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Desempregado,Parcial,Solteiro,Baixa,NÃ£o,Menos de 1 ano,Outros,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Estudante,Integral,Solteiro,MÃ©dia,NÃ£o,3 a 5 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Desempregado,Parcial,Casado,Baixa,Sim,3 a 5 anos,ImÃ³vel,Adulto,Financiamento,Alto,1,0
+NÃ£o,Estudante,Outros,Divorciado,MÃ©dia,Sim,Menos de 1 ano,Fiador,Idoso,Financiamento,MÃ©dio,0,0
+NÃ£o,Estudante,Parcial,Casado,Baixa,NÃ£o,Menos de 1 ano,Outros,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Aposentado,Outros,Casado,MÃ©dia,Sim,Menos de 1 ano,Outros,Idoso,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Aposentado,Integral,ViÃºvo,Alta,NÃ£o,3 a 5 anos,Fiador,Jovem,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Desempregado,Parcial,Divorciado,Baixa,NÃ£o,Mais de 5 anos,Outros,Jovem,Financiamento,MÃ©dio,0,0
+NÃ£o,Desempregado,Integral,Divorciado,Baixa,NÃ£o,Menos de 1 ano,Nenhuma,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Parcial,Divorciado,Baixa,NÃ£o,Menos de 1 ano,Fiador,Adulto,Financiamento,Baixo,0,0
+NÃ£o,Aposentado,Integral,Casado,Baixa,NÃ£o,1 a 3 anos,ImÃ³vel,Adulto,CrÃ©dito Consignado,Baixo,0,0
+Sim,Desempregado,Parcial,Solteiro,MÃ©dia,NÃ£o,3 a 5 anos,ImÃ³vel,Adulto,Financiamento,Alto,1,0
+Sim,Aposentado,Parcial,ViÃºvo,Alta,Sim,3 a 5 anos,ImÃ³vel,Idoso,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Desempregado,Integral,ViÃºvo,Baixa,Sim,Mais de 5 anos,Fiador,Jovem,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Desempregado,Integral,Solteiro,MÃ©dia,Sim,Mais de 5 anos,Fiador,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,AutÃ´nomo,Parcial,Divorciado,Alta,Sim,Mais de 5 anos,Fiador,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Estudante,Outros,Divorciado,MÃ©dia,NÃ£o,Mais de 5 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Desempregado,Parcial,Divorciado,Baixa,NÃ£o,1 a 3 anos,Nenhuma,Jovem,Financiamento,Baixo,0,0
+NÃ£o,AutÃ´nomo,Integral,ViÃºvo,MÃ©dia,NÃ£o,Mais de 5 anos,Outros,Jovem,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Desempregado,Parcial,Divorciado,MÃ©dia,Sim,1 a 3 anos,ImÃ³vel,Idoso,Financiamento,Alto,1,0
+Sim,Estudante,Parcial,Casado,MÃ©dia,NÃ£o,1 a 3 anos,Nenhuma,Adulto,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,AutÃ´nomo,Outros,Divorciado,MÃ©dia,NÃ£o,1 a 3 anos,ImÃ³vel,Jovem,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Desempregado,Integral,ViÃºvo,Alta,NÃ£o,3 a 5 anos,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Empregado,Integral,ViÃºvo,Alta,NÃ£o,Menos de 1 ano,Nenhuma,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Aposentado,Parcial,Solteiro,Baixa,Sim,Mais de 5 anos,Fiador,Adulto,Financiamento,Alto,1,0
+Sim,Aposentado,Parcial,Solteiro,MÃ©dia,Sim,Menos de 1 ano,ImÃ³vel,Adulto,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Estudante,Parcial,Divorciado,MÃ©dia,Sim,Menos de 1 ano,Fiador,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Desempregado,Integral,Divorciado,Alta,NÃ£o,1 a 3 anos,ImÃ³vel,Jovem,CrÃ©dito Pessoal,Alto,1,0
+Sim,Estudante,Outros,Divorciado,Baixa,NÃ£o,Mais de 5 anos,Nenhuma,Adulto,Financiamento,Baixo,0,0
+Sim,Estudante,Integral,Casado,Alta,NÃ£o,Menos de 1 ano,ImÃ³vel,Jovem,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Aposentado,Parcial,ViÃºvo,MÃ©dia,NÃ£o,1 a 3 anos,ImÃ³vel,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Desempregado,Parcial,Divorciado,MÃ©dia,Sim,1 a 3 anos,Nenhuma,Jovem,CrÃ©dito Consignado,Alto,1,0
+Sim,Desempregado,Integral,ViÃºvo,MÃ©dia,NÃ£o,Mais de 5 anos,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Estudante,Outros,Divorciado,Alta,NÃ£o,3 a 5 anos,Fiador,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Empregado,Integral,Divorciado,Baixa,NÃ£o,1 a 3 anos,Nenhuma,Idoso,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,AutÃ´nomo,Integral,Casado,Baixa,Sim,Menos de 1 ano,Fiador,Idoso,Financiamento,MÃ©dio,0,0
+NÃ£o,Desempregado,Parcial,Casado,MÃ©dia,Sim,Mais de 5 anos,Outros,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Estudante,Parcial,ViÃºvo,Baixa,NÃ£o,3 a 5 anos,Nenhuma,Jovem,Financiamento,Baixo,0,0
+Sim,Estudante,Parcial,Casado,Alta,Sim,3 a 5 anos,ImÃ³vel,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Aposentado,Parcial,Divorciado,Alta,Sim,Mais de 5 anos,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Desempregado,Outros,ViÃºvo,MÃ©dia,NÃ£o,Menos de 1 ano,Outros,Jovem,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Empregado,Integral,Solteiro,Alta,NÃ£o,3 a 5 anos,Outros,Adulto,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Aposentado,Integral,Casado,Alta,NÃ£o,Menos de 1 ano,Nenhuma,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Aposentado,Integral,ViÃºvo,MÃ©dia,Sim,Mais de 5 anos,Fiador,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,AutÃ´nomo,Integral,Casado,MÃ©dia,NÃ£o,3 a 5 anos,ImÃ³vel,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,AutÃ´nomo,Parcial,Casado,MÃ©dia,NÃ£o,1 a 3 anos,Nenhuma,Jovem,CrÃ©dito Consignado,Alto,1,0
+Sim,Empregado,Outros,Solteiro,MÃ©dia,Sim,3 a 5 anos,Fiador,Idoso,Financiamento,Baixo,0,0
+Sim,Desempregado,Integral,Casado,Baixa,NÃ£o,1 a 3 anos,Outros,Adulto,Financiamento,MÃ©dio,0,0
+Sim,Desempregado,Outros,Casado,MÃ©dia,Sim,3 a 5 anos,Outros,Jovem,CrÃ©dito Consignado,Alto,1,0
+Sim,AutÃ´nomo,Parcial,Solteiro,Baixa,Sim,Mais de 5 anos,Fiador,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Aposentado,Parcial,Casado,Alta,Sim,Menos de 1 ano,Fiador,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Desempregado,Parcial,ViÃºvo,Alta,Sim,Mais de 5 anos,Outros,Adulto,Financiamento,MÃ©dio,0,0
+NÃ£o,Desempregado,Outros,Solteiro,Baixa,Sim,Menos de 1 ano,Fiador,Adulto,Financiamento,Baixo,0,0
+Sim,AutÃ´nomo,Outros,Solteiro,Alta,Sim,Menos de 1 ano,Fiador,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,AutÃ´nomo,Integral,Casado,Alta,Sim,3 a 5 anos,Fiador,Adulto,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Desempregado,Outros,Solteiro,MÃ©dia,NÃ£o,Mais de 5 anos,Fiador,Jovem,Financiamento,MÃ©dio,0,0
+NÃ£o,Aposentado,Parcial,Divorciado,Baixa,Sim,3 a 5 anos,Nenhuma,Idoso,CrÃ©dito Consignado,Baixo,0,0
+Sim,Empregado,Integral,Casado,MÃ©dia,Sim,Mais de 5 anos,ImÃ³vel,Jovem,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Aposentado,Integral,Solteiro,Alta,Sim,Menos de 1 ano,Fiador,Idoso,Financiamento,Alto,1,0
+Sim,Desempregado,Outros,Divorciado,MÃ©dia,NÃ£o,Menos de 1 ano,Outros,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Empregado,Outros,Casado,Baixa,Sim,Mais de 5 anos,Outros,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Aposentado,Outros,Solteiro,Baixa,Sim,3 a 5 anos,Outros,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Estudante,Parcial,Divorciado,Alta,Sim,1 a 3 anos,Fiador,Jovem,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Aposentado,Outros,ViÃºvo,MÃ©dia,NÃ£o,1 a 3 anos,Nenhuma,Adulto,CrÃ©dito Consignado,Alto,1,0
+Sim,Empregado,Integral,Divorciado,Baixa,NÃ£o,Menos de 1 ano,ImÃ³vel,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,AutÃ´nomo,Integral,Divorciado,Baixa,NÃ£o,3 a 5 anos,ImÃ³vel,Idoso,Financiamento,MÃ©dio,0,0
+Sim,Desempregado,Parcial,Solteiro,Alta,NÃ£o,Menos de 1 ano,Fiador,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Estudante,Integral,Solteiro,MÃ©dia,NÃ£o,3 a 5 anos,Fiador,Jovem,Financiamento,MÃ©dio,0,0
+NÃ£o,Estudante,Parcial,Divorciado,MÃ©dia,Sim,Mais de 5 anos,ImÃ³vel,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Estudante,Parcial,ViÃºvo,Baixa,Sim,1 a 3 anos,Fiador,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Desempregado,Parcial,Divorciado,MÃ©dia,Sim,1 a 3 anos,Outros,Jovem,CrÃ©dito Pessoal,Baixo,0,0
+Sim,AutÃ´nomo,Parcial,ViÃºvo,Baixa,NÃ£o,Menos de 1 ano,Nenhuma,Jovem,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Aposentado,Parcial,Divorciado,Alta,Sim,Mais de 5 anos,Nenhuma,Adulto,Financiamento,Baixo,0,0
+Sim,AutÃ´nomo,Parcial,ViÃºvo,Baixa,NÃ£o,Menos de 1 ano,Outros,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Desempregado,Outros,ViÃºvo,MÃ©dia,Sim,Mais de 5 anos,Nenhuma,Adulto,Financiamento,MÃ©dio,0,0
+Sim,Desempregado,Outros,Solteiro,MÃ©dia,NÃ£o,Mais de 5 anos,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Aposentado,Parcial,Solteiro,Baixa,Sim,Menos de 1 ano,Outros,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Empregado,Outros,Divorciado,MÃ©dia,NÃ£o,Menos de 1 ano,ImÃ³vel,Adulto,Financiamento,Baixo,0,0
+Sim,Desempregado,Integral,Solteiro,Alta,Sim,Menos de 1 ano,ImÃ³vel,Jovem,CrÃ©dito Pessoal,Alto,1,0
+Sim,Desempregado,Parcial,Divorciado,MÃ©dia,Sim,1 a 3 anos,Outros,Jovem,Financiamento,Baixo,0,0
+Sim,Desempregado,Outros,Solteiro,MÃ©dia,Sim,Menos de 1 ano,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Empregado,Parcial,Divorciado,Baixa,NÃ£o,Mais de 5 anos,Nenhuma,Idoso,Financiamento,Alto,1,0
+Sim,Aposentado,Parcial,Casado,Baixa,NÃ£o,3 a 5 anos,Fiador,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Estudante,Parcial,ViÃºvo,MÃ©dia,Sim,1 a 3 anos,ImÃ³vel,Jovem,Financiamento,Alto,1,0
+NÃ£o,Aposentado,Parcial,Divorciado,MÃ©dia,Sim,3 a 5 anos,Outros,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Integral,Casado,MÃ©dia,NÃ£o,3 a 5 anos,ImÃ³vel,Idoso,CrÃ©dito Pessoal,Alto,1,0
+Sim,AutÃ´nomo,Parcial,Solteiro,MÃ©dia,NÃ£o,1 a 3 anos,Outros,Idoso,Financiamento,MÃ©dio,0,0
+NÃ£o,Desempregado,Parcial,Casado,MÃ©dia,Sim,1 a 3 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Aposentado,Parcial,Divorciado,MÃ©dia,NÃ£o,Menos de 1 ano,ImÃ³vel,Jovem,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Empregado,Integral,ViÃºvo,Baixa,NÃ£o,1 a 3 anos,Nenhuma,Adulto,Financiamento,MÃ©dio,0,0
+Sim,AutÃ´nomo,Parcial,Divorciado,Baixa,NÃ£o,3 a 5 anos,Fiador,Idoso,Financiamento,Alto,1,0
+Sim,Estudante,Parcial,Solteiro,Alta,NÃ£o,Mais de 5 anos,Nenhuma,Idoso,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Desempregado,Integral,Casado,Alta,NÃ£o,1 a 3 anos,Nenhuma,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Aposentado,Outros,Casado,MÃ©dia,NÃ£o,Menos de 1 ano,Outros,Idoso,Financiamento,Alto,1,0
+NÃ£o,Aposentado,Outros,Solteiro,Baixa,NÃ£o,3 a 5 anos,ImÃ³vel,Adulto,CrÃ©dito Consignado,Baixo,0,0
+Sim,Desempregado,Parcial,Solteiro,MÃ©dia,NÃ£o,Menos de 1 ano,ImÃ³vel,Adulto,CrÃ©dito Consignado,Alto,1,0
+Sim,Desempregado,Outros,ViÃºvo,Alta,NÃ£o,Mais de 5 anos,ImÃ³vel,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Aposentado,Integral,Casado,Baixa,NÃ£o,3 a 5 anos,ImÃ³vel,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Empregado,Parcial,Solteiro,Alta,NÃ£o,1 a 3 anos,Outros,Adulto,CrÃ©dito Pessoal,Alto,1,0
+Sim,Estudante,Parcial,Divorciado,Baixa,Sim,Mais de 5 anos,Nenhuma,Jovem,Financiamento,Alto,1,0
+NÃ£o,AutÃ´nomo,Parcial,Casado,MÃ©dia,NÃ£o,3 a 5 anos,Outros,Adulto,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,AutÃ´nomo,Integral,Divorciado,Baixa,Sim,3 a 5 anos,Nenhuma,Idoso,Financiamento,MÃ©dio,0,0
+Sim,Estudante,Parcial,Casado,MÃ©dia,Sim,1 a 3 anos,Outros,Jovem,Financiamento,Baixo,0,0
+Sim,Estudante,Outros,Divorciado,MÃ©dia,Sim,3 a 5 anos,Fiador,Adulto,Financiamento,Alto,1,0
+NÃ£o,Empregado,Parcial,ViÃºvo,MÃ©dia,NÃ£o,1 a 3 anos,Fiador,Adulto,Financiamento,Alto,1,0
+Sim,AutÃ´nomo,Parcial,Casado,Alta,Sim,3 a 5 anos,Outros,Jovem,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Estudante,Outros,Solteiro,Baixa,Sim,3 a 5 anos,Outros,Idoso,Financiamento,Alto,1,0
+NÃ£o,Estudante,Integral,Casado,MÃ©dia,NÃ£o,1 a 3 anos,Nenhuma,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,AutÃ´nomo,Parcial,ViÃºvo,Alta,Sim,Mais de 5 anos,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Empregado,Outros,Casado,Baixa,Sim,Mais de 5 anos,Fiador,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Empregado,Integral,Casado,MÃ©dia,Sim,Menos de 1 ano,Nenhuma,Adulto,CrÃ©dito Consignado,Alto,1,0
+Sim,Aposentado,Outros,Divorciado,Baixa,Sim,Mais de 5 anos,Nenhuma,Idoso,Financiamento,Baixo,0,0
+NÃ£o,Aposentado,Outros,Casado,MÃ©dia,NÃ£o,3 a 5 anos,Nenhuma,Adulto,Financiamento,Baixo,0,0
+NÃ£o,Desempregado,Outros,Divorciado,Alta,Sim,3 a 5 anos,Outros,Jovem,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Empregado,Integral,ViÃºvo,Baixa,Sim,3 a 5 anos,Fiador,Adulto,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Aposentado,Integral,ViÃºvo,Alta,NÃ£o,3 a 5 anos,Outros,Idoso,CrÃ©dito Consignado,Alto,1,0
+Sim,Estudante,Integral,Casado,Baixa,Sim,Mais de 5 anos,ImÃ³vel,Adulto,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Desempregado,Outros,ViÃºvo,MÃ©dia,Sim,1 a 3 anos,Outros,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Desempregado,Parcial,Divorciado,MÃ©dia,NÃ£o,Menos de 1 ano,Fiador,Idoso,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Estudante,Outros,Divorciado,MÃ©dia,Sim,3 a 5 anos,Nenhuma,Jovem,Financiamento,MÃ©dio,0,0
+Sim,Empregado,Outros,Solteiro,MÃ©dia,NÃ£o,1 a 3 anos,Outros,Jovem,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,AutÃ´nomo,Outros,Divorciado,Baixa,Sim,1 a 3 anos,ImÃ³vel,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Empregado,Outros,Solteiro,Alta,NÃ£o,Mais de 5 anos,ImÃ³vel,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Empregado,Integral,Casado,Baixa,Sim,Menos de 1 ano,Fiador,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Desempregado,Outros,Solteiro,MÃ©dia,NÃ£o,Mais de 5 anos,Fiador,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Desempregado,Parcial,Casado,MÃ©dia,NÃ£o,Mais de 5 anos,Outros,Jovem,Financiamento,MÃ©dio,0,0
+Sim,Estudante,Integral,Divorciado,Alta,Sim,1 a 3 anos,ImÃ³vel,Jovem,CrÃ©dito Pessoal,Alto,1,0
+Sim,AutÃ´nomo,Integral,Solteiro,Alta,Sim,Menos de 1 ano,Outros,Jovem,Financiamento,Baixo,0,0
+Sim,Estudante,Integral,ViÃºvo,Baixa,NÃ£o,1 a 3 anos,Nenhuma,Adulto,Financiamento,Alto,1,0
+Sim,Estudante,Outros,Divorciado,Alta,NÃ£o,1 a 3 anos,ImÃ³vel,Jovem,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Desempregado,Parcial,Casado,MÃ©dia,Sim,3 a 5 anos,Fiador,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Integral,Divorciado,MÃ©dia,NÃ£o,1 a 3 anos,ImÃ³vel,Idoso,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Aposentado,Parcial,Solteiro,Baixa,NÃ£o,3 a 5 anos,ImÃ³vel,Jovem,Financiamento,Baixo,0,0
+Sim,AutÃ´nomo,Outros,Divorciado,MÃ©dia,Sim,1 a 3 anos,Outros,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Estudante,Integral,Casado,MÃ©dia,Sim,Menos de 1 ano,Fiador,Adulto,Financiamento,Alto,1,0
+Sim,Aposentado,Integral,Solteiro,Baixa,NÃ£o,Mais de 5 anos,Fiador,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Aposentado,Outros,ViÃºvo,Baixa,NÃ£o,Mais de 5 anos,Outros,Adulto,CrÃ©dito Pessoal,Alto,1,0
+Sim,Estudante,Integral,Casado,MÃ©dia,Sim,3 a 5 anos,Nenhuma,Jovem,Financiamento,MÃ©dio,0,0
+Sim,Desempregado,Integral,Solteiro,Baixa,Sim,Mais de 5 anos,ImÃ³vel,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Empregado,Parcial,ViÃºvo,Baixa,Sim,Menos de 1 ano,ImÃ³vel,Adulto,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Desempregado,Parcial,Solteiro,Baixa,Sim,Menos de 1 ano,Fiador,Adulto,Financiamento,MÃ©dio,0,0
+Sim,Desempregado,Parcial,Casado,MÃ©dia,Sim,3 a 5 anos,ImÃ³vel,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Desempregado,Outros,Casado,Alta,Sim,3 a 5 anos,Outros,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Estudante,Integral,ViÃºvo,MÃ©dia,Sim,Menos de 1 ano,ImÃ³vel,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Estudante,Integral,ViÃºvo,Baixa,Sim,Menos de 1 ano,Fiador,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,AutÃ´nomo,Parcial,Casado,MÃ©dia,Sim,Menos de 1 ano,Nenhuma,Jovem,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,AutÃ´nomo,Parcial,ViÃºvo,MÃ©dia,NÃ£o,Menos de 1 ano,ImÃ³vel,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Parcial,Divorciado,Baixa,Sim,1 a 3 anos,Outros,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Desempregado,Parcial,Solteiro,MÃ©dia,Sim,1 a 3 anos,Fiador,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Outros,ViÃºvo,MÃ©dia,Sim,3 a 5 anos,Nenhuma,Idoso,Financiamento,Baixo,0,0
+Sim,Estudante,Parcial,Solteiro,MÃ©dia,NÃ£o,Menos de 1 ano,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Estudante,Integral,Casado,Alta,Sim,Mais de 5 anos,Fiador,Adulto,CrÃ©dito Consignado,Baixo,0,0
+Sim,Aposentado,Outros,ViÃºvo,Alta,NÃ£o,Mais de 5 anos,ImÃ³vel,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Empregado,Integral,ViÃºvo,Baixa,Sim,Mais de 5 anos,Outros,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Aposentado,Outros,Casado,Alta,NÃ£o,3 a 5 anos,Outros,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,AutÃ´nomo,Parcial,Solteiro,Baixa,NÃ£o,3 a 5 anos,Nenhuma,Adulto,CrÃ©dito Consignado,Baixo,0,0
+Sim,Aposentado,Outros,Divorciado,Baixa,Sim,Mais de 5 anos,Nenhuma,Idoso,Financiamento,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Outros,Solteiro,Alta,Sim,Menos de 1 ano,Outros,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Desempregado,Integral,Divorciado,MÃ©dia,NÃ£o,Mais de 5 anos,Nenhuma,Jovem,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,AutÃ´nomo,Parcial,Solteiro,MÃ©dia,Sim,Mais de 5 anos,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Desempregado,Outros,Casado,Alta,Sim,Mais de 5 anos,Fiador,Idoso,CrÃ©dito Consignado,Baixo,0,0
+Sim,AutÃ´nomo,Integral,ViÃºvo,Baixa,Sim,1 a 3 anos,ImÃ³vel,Jovem,CrÃ©dito Consignado,Baixo,0,0
+Sim,Empregado,Integral,Divorciado,MÃ©dia,NÃ£o,1 a 3 anos,Outros,Jovem,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Estudante,Outros,Solteiro,Alta,NÃ£o,3 a 5 anos,Nenhuma,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Estudante,Outros,Solteiro,MÃ©dia,NÃ£o,Mais de 5 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Desempregado,Outros,Divorciado,Alta,Sim,Mais de 5 anos,ImÃ³vel,Jovem,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Empregado,Parcial,ViÃºvo,Alta,NÃ£o,Menos de 1 ano,Outros,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Empregado,Parcial,ViÃºvo,Alta,NÃ£o,Mais de 5 anos,Outros,Idoso,CrÃ©dito Pessoal,Alto,1,0
+Sim,AutÃ´nomo,Outros,ViÃºvo,MÃ©dia,NÃ£o,1 a 3 anos,Outros,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Desempregado,Parcial,Casado,MÃ©dia,NÃ£o,Mais de 5 anos,ImÃ³vel,Jovem,Financiamento,Alto,1,0
+NÃ£o,Desempregado,Integral,Solteiro,MÃ©dia,Sim,3 a 5 anos,Outros,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Empregado,Outros,ViÃºvo,MÃ©dia,Sim,Mais de 5 anos,ImÃ³vel,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Aposentado,Parcial,Solteiro,MÃ©dia,NÃ£o,Menos de 1 ano,ImÃ³vel,Idoso,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Estudante,Outros,Solteiro,Alta,NÃ£o,3 a 5 anos,Nenhuma,Adulto,CrÃ©dito Pessoal,Alto,1,0
+Sim,AutÃ´nomo,Integral,Solteiro,Alta,NÃ£o,Menos de 1 ano,ImÃ³vel,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Aposentado,Outros,Casado,Alta,NÃ£o,3 a 5 anos,ImÃ³vel,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Outros,Solteiro,MÃ©dia,Sim,3 a 5 anos,ImÃ³vel,Jovem,Financiamento,MÃ©dio,0,0
+NÃ£o,Empregado,Outros,Divorciado,Baixa,Sim,1 a 3 anos,Fiador,Adulto,Financiamento,Alto,1,0
+NÃ£o,AutÃ´nomo,Outros,ViÃºvo,MÃ©dia,Sim,Mais de 5 anos,Outros,Jovem,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Empregado,Parcial,Divorciado,Alta,Sim,Mais de 5 anos,Fiador,Idoso,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Estudante,Outros,Solteiro,Alta,Sim,3 a 5 anos,Nenhuma,Jovem,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Desempregado,Parcial,Casado,MÃ©dia,Sim,Menos de 1 ano,ImÃ³vel,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Estudante,Parcial,Solteiro,Alta,Sim,1 a 3 anos,ImÃ³vel,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Estudante,Parcial,Casado,Alta,NÃ£o,Mais de 5 anos,Nenhuma,Idoso,Financiamento,Alto,1,0
+Sim,AutÃ´nomo,Outros,Casado,MÃ©dia,NÃ£o,Mais de 5 anos,Outros,Jovem,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Estudante,Integral,Solteiro,Alta,NÃ£o,Mais de 5 anos,Outros,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Desempregado,Integral,Solteiro,Alta,Sim,3 a 5 anos,Fiador,Idoso,Financiamento,MÃ©dio,0,0
+NÃ£o,Estudante,Integral,Solteiro,MÃ©dia,Sim,3 a 5 anos,Outros,Idoso,Financiamento,MÃ©dio,0,0
+NÃ£o,Empregado,Parcial,Solteiro,MÃ©dia,Sim,Menos de 1 ano,ImÃ³vel,Idoso,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Empregado,Outros,Divorciado,Alta,NÃ£o,1 a 3 anos,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Empregado,Integral,Casado,Baixa,NÃ£o,3 a 5 anos,Outros,Idoso,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Estudante,Parcial,Solteiro,MÃ©dia,NÃ£o,1 a 3 anos,Outros,Jovem,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Desempregado,Integral,Solteiro,Alta,Sim,Menos de 1 ano,Outros,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Desempregado,Parcial,Divorciado,Baixa,Sim,1 a 3 anos,Outros,Adulto,CrÃ©dito Pessoal,Alto,1,0
+Sim,Desempregado,Parcial,ViÃºvo,Baixa,Sim,Mais de 5 anos,Outros,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Aposentado,Outros,Divorciado,Alta,Sim,Menos de 1 ano,ImÃ³vel,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Desempregado,Integral,Divorciado,MÃ©dia,Sim,Mais de 5 anos,ImÃ³vel,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Parcial,ViÃºvo,MÃ©dia,Sim,1 a 3 anos,Nenhuma,Idoso,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Aposentado,Parcial,Casado,MÃ©dia,Sim,Mais de 5 anos,Outros,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Estudante,Integral,Casado,MÃ©dia,NÃ£o,Menos de 1 ano,ImÃ³vel,Idoso,Financiamento,MÃ©dio,0,0
+Sim,AutÃ´nomo,Outros,Divorciado,Baixa,NÃ£o,Menos de 1 ano,Nenhuma,Idoso,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,AutÃ´nomo,Integral,ViÃºvo,MÃ©dia,NÃ£o,3 a 5 anos,Fiador,Adulto,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Empregado,Integral,Casado,MÃ©dia,Sim,Menos de 1 ano,Nenhuma,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Aposentado,Parcial,Divorciado,Alta,NÃ£o,1 a 3 anos,Nenhuma,Idoso,Financiamento,Baixo,0,0
+Sim,Empregado,Integral,Solteiro,Alta,NÃ£o,1 a 3 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Aposentado,Parcial,Solteiro,Alta,Sim,Menos de 1 ano,ImÃ³vel,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Empregado,Parcial,ViÃºvo,Alta,Sim,Menos de 1 ano,Fiador,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Aposentado,Parcial,ViÃºvo,MÃ©dia,Sim,1 a 3 anos,Nenhuma,Idoso,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Empregado,Parcial,ViÃºvo,Baixa,Sim,1 a 3 anos,Nenhuma,Idoso,Financiamento,Baixo,0,0
+NÃ£o,AutÃ´nomo,Integral,Divorciado,Baixa,NÃ£o,Mais de 5 anos,Fiador,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,AutÃ´nomo,Parcial,Divorciado,Baixa,NÃ£o,Mais de 5 anos,ImÃ³vel,Adulto,Financiamento,Alto,1,0
+NÃ£o,Desempregado,Parcial,Solteiro,Alta,NÃ£o,1 a 3 anos,Nenhuma,Jovem,CrÃ©dito Consignado,Baixo,0,0
+Sim,Aposentado,Outros,Casado,Alta,NÃ£o,1 a 3 anos,Nenhuma,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Empregado,Outros,Casado,Baixa,Sim,3 a 5 anos,ImÃ³vel,Jovem,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,AutÃ´nomo,Integral,ViÃºvo,Baixa,Sim,3 a 5 anos,Nenhuma,Jovem,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Desempregado,Outros,Solteiro,MÃ©dia,Sim,Mais de 5 anos,Fiador,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Estudante,Parcial,Divorciado,Baixa,NÃ£o,Mais de 5 anos,Fiador,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Estudante,Parcial,Solteiro,MÃ©dia,NÃ£o,Mais de 5 anos,Outros,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Empregado,Parcial,Solteiro,Alta,Sim,Mais de 5 anos,Nenhuma,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Desempregado,Integral,ViÃºvo,Alta,Sim,Mais de 5 anos,ImÃ³vel,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Desempregado,Parcial,Divorciado,Alta,Sim,1 a 3 anos,Nenhuma,Idoso,Financiamento,MÃ©dio,0,0
+NÃ£o,Estudante,Outros,Casado,MÃ©dia,Sim,Mais de 5 anos,Fiador,Jovem,Financiamento,MÃ©dio,0,0
+Sim,Empregado,Parcial,Casado,Alta,NÃ£o,Mais de 5 anos,Outros,Idoso,CrÃ©dito Consignado,Baixo,0,0
+Sim,Empregado,Outros,ViÃºvo,Baixa,Sim,3 a 5 anos,Fiador,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Integral,Solteiro,Alta,Sim,Mais de 5 anos,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Desempregado,Parcial,ViÃºvo,Alta,Sim,3 a 5 anos,ImÃ³vel,Jovem,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,AutÃ´nomo,Outros,Casado,Alta,Sim,Mais de 5 anos,Outros,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Estudante,Outros,Divorciado,Alta,NÃ£o,Menos de 1 ano,Fiador,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Estudante,Integral,Divorciado,Baixa,NÃ£o,1 a 3 anos,ImÃ³vel,Jovem,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Empregado,Parcial,Casado,Alta,NÃ£o,1 a 3 anos,Fiador,Jovem,CrÃ©dito Pessoal,Alto,1,0
+Sim,Aposentado,Integral,Casado,MÃ©dia,NÃ£o,Mais de 5 anos,Nenhuma,Jovem,Financiamento,Baixo,0,0
+Sim,Empregado,Integral,Casado,Baixa,NÃ£o,1 a 3 anos,ImÃ³vel,Jovem,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Aposentado,Integral,ViÃºvo,Baixa,NÃ£o,1 a 3 anos,Nenhuma,Jovem,CrÃ©dito Pessoal,Alto,1,0
+Sim,Aposentado,Integral,Divorciado,MÃ©dia,NÃ£o,Mais de 5 anos,Nenhuma,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Aposentado,Integral,ViÃºvo,MÃ©dia,NÃ£o,Menos de 1 ano,Nenhuma,Adulto,CrÃ©dito Pessoal,Alto,1,0
+Sim,Desempregado,Integral,Solteiro,Baixa,NÃ£o,1 a 3 anos,Outros,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Empregado,Integral,Casado,Alta,Sim,Menos de 1 ano,Outros,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Estudante,Parcial,ViÃºvo,Baixa,Sim,1 a 3 anos,Nenhuma,Idoso,CrÃ©dito Consignado,Baixo,0,0
+Sim,Estudante,Integral,Casado,MÃ©dia,NÃ£o,3 a 5 anos,Outros,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Aposentado,Parcial,Casado,Alta,NÃ£o,Mais de 5 anos,Nenhuma,Jovem,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Desempregado,Outros,Divorciado,Baixa,NÃ£o,Mais de 5 anos,Nenhuma,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Aposentado,Integral,Solteiro,Alta,NÃ£o,Menos de 1 ano,Outros,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,AutÃ´nomo,Integral,Solteiro,Alta,NÃ£o,1 a 3 anos,Outros,Jovem,CrÃ©dito Consignado,Baixo,0,0
+Sim,Aposentado,Outros,Divorciado,MÃ©dia,NÃ£o,1 a 3 anos,Nenhuma,Jovem,Financiamento,Alto,1,0
+Sim,Desempregado,Parcial,Divorciado,MÃ©dia,Sim,3 a 5 anos,Nenhuma,Adulto,Financiamento,Alto,1,0
+NÃ£o,Aposentado,Integral,Solteiro,MÃ©dia,Sim,1 a 3 anos,Fiador,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,AutÃ´nomo,Outros,ViÃºvo,Alta,Sim,Mais de 5 anos,ImÃ³vel,Idoso,Financiamento,Alto,1,0
+NÃ£o,Estudante,Parcial,Divorciado,Alta,Sim,Menos de 1 ano,ImÃ³vel,Idoso,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Empregado,Integral,Casado,Alta,Sim,Menos de 1 ano,ImÃ³vel,Jovem,Financiamento,Alto,1,0
+NÃ£o,AutÃ´nomo,Integral,ViÃºvo,Alta,Sim,Menos de 1 ano,Outros,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Aposentado,Parcial,Solteiro,Baixa,Sim,1 a 3 anos,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Desempregado,Outros,ViÃºvo,Baixa,Sim,Menos de 1 ano,Nenhuma,Idoso,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Desempregado,Parcial,ViÃºvo,Alta,Sim,1 a 3 anos,Fiador,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Desempregado,Integral,Solteiro,MÃ©dia,NÃ£o,Mais de 5 anos,Outros,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Empregado,Outros,ViÃºvo,MÃ©dia,NÃ£o,Mais de 5 anos,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Desempregado,Parcial,Solteiro,MÃ©dia,NÃ£o,1 a 3 anos,ImÃ³vel,Adulto,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Empregado,Integral,ViÃºvo,Alta,Sim,3 a 5 anos,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,AutÃ´nomo,Parcial,ViÃºvo,Baixa,NÃ£o,Menos de 1 ano,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Empregado,Integral,Casado,MÃ©dia,Sim,1 a 3 anos,Fiador,Jovem,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Empregado,Outros,Casado,Alta,NÃ£o,1 a 3 anos,Nenhuma,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Estudante,Parcial,Divorciado,Alta,Sim,Menos de 1 ano,Outros,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Estudante,Integral,ViÃºvo,Baixa,NÃ£o,Menos de 1 ano,Outros,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Estudante,Integral,ViÃºvo,MÃ©dia,Sim,1 a 3 anos,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Aposentado,Integral,ViÃºvo,MÃ©dia,NÃ£o,1 a 3 anos,Fiador,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Estudante,Outros,Solteiro,Alta,NÃ£o,1 a 3 anos,Nenhuma,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Estudante,Parcial,Casado,Alta,Sim,1 a 3 anos,Nenhuma,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,AutÃ´nomo,Integral,ViÃºvo,MÃ©dia,Sim,Menos de 1 ano,Outros,Adulto,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Aposentado,Outros,Casado,MÃ©dia,NÃ£o,Menos de 1 ano,ImÃ³vel,Idoso,Financiamento,Alto,1,0
+Sim,Desempregado,Outros,Casado,Alta,NÃ£o,3 a 5 anos,Nenhuma,Jovem,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Desempregado,Parcial,Divorciado,MÃ©dia,Sim,Menos de 1 ano,Outros,Adulto,Financiamento,Baixo,0,0
+NÃ£o,Empregado,Integral,Solteiro,Alta,Sim,Menos de 1 ano,Outros,Jovem,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Aposentado,Integral,Divorciado,Alta,Sim,Mais de 5 anos,Outros,Adulto,Financiamento,MÃ©dio,0,0
+Sim,Estudante,Integral,Casado,Baixa,Sim,3 a 5 anos,Nenhuma,Jovem,CrÃ©dito Consignado,Alto,1,0
+Sim,AutÃ´nomo,Parcial,Casado,Baixa,Sim,Menos de 1 ano,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Empregado,Outros,Casado,MÃ©dia,NÃ£o,3 a 5 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Estudante,Integral,ViÃºvo,Baixa,Sim,3 a 5 anos,Nenhuma,Jovem,CrÃ©dito Pessoal,Alto,1,0
+Sim,Desempregado,Integral,Solteiro,MÃ©dia,Sim,Menos de 1 ano,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Empregado,Parcial,Divorciado,MÃ©dia,Sim,Mais de 5 anos,Outros,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Estudante,Parcial,Casado,Baixa,NÃ£o,Mais de 5 anos,Outros,Adulto,Financiamento,Alto,1,0
+Sim,AutÃ´nomo,Outros,ViÃºvo,Baixa,Sim,Menos de 1 ano,ImÃ³vel,Adulto,Financiamento,MÃ©dio,0,0
+Sim,Aposentado,Integral,Solteiro,Alta,Sim,3 a 5 anos,ImÃ³vel,Idoso,Financiamento,Alto,1,0
+NÃ£o,Aposentado,Integral,Solteiro,Baixa,NÃ£o,3 a 5 anos,Outros,Adulto,Financiamento,Baixo,0,0
+Sim,Empregado,Integral,Divorciado,Alta,NÃ£o,1 a 3 anos,Nenhuma,Jovem,CrÃ©dito Consignado,Alto,1,0
+Sim,Empregado,Integral,Divorciado,Baixa,Sim,1 a 3 anos,Outros,Idoso,Financiamento,Alto,1,0
+NÃ£o,Aposentado,Parcial,ViÃºvo,Baixa,NÃ£o,Mais de 5 anos,Outros,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Empregado,Parcial,Solteiro,Alta,Sim,Menos de 1 ano,ImÃ³vel,Idoso,Financiamento,Alto,1,0
+Sim,Desempregado,Outros,Casado,Alta,Sim,1 a 3 anos,Outros,Adulto,CrÃ©dito Consignado,Alto,1,0
+Sim,Empregado,Integral,Casado,Alta,Sim,3 a 5 anos,Fiador,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Aposentado,Integral,Divorciado,MÃ©dia,Sim,Menos de 1 ano,Nenhuma,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+Sim,AutÃ´nomo,Integral,Solteiro,MÃ©dia,NÃ£o,3 a 5 anos,Outros,Idoso,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,AutÃ´nomo,Parcial,Casado,Alta,Sim,Mais de 5 anos,Fiador,Jovem,Financiamento,Baixo,0,0
+NÃ£o,Aposentado,Outros,Solteiro,MÃ©dia,Sim,Menos de 1 ano,Fiador,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Estudante,Integral,Divorciado,MÃ©dia,Sim,Mais de 5 anos,Nenhuma,Jovem,Financiamento,MÃ©dio,0,0
+NÃ£o,Estudante,Integral,Solteiro,Baixa,NÃ£o,3 a 5 anos,Nenhuma,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Outros,Casado,Baixa,Sim,Menos de 1 ano,Fiador,Idoso,Financiamento,MÃ©dio,0,0
+Sim,Aposentado,Integral,ViÃºvo,Alta,NÃ£o,3 a 5 anos,Nenhuma,Idoso,Financiamento,MÃ©dio,0,0
+Sim,AutÃ´nomo,Outros,Divorciado,Baixa,Sim,Mais de 5 anos,ImÃ³vel,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Empregado,Integral,Divorciado,Alta,NÃ£o,Mais de 5 anos,Fiador,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,AutÃ´nomo,Outros,Divorciado,Baixa,Sim,Menos de 1 ano,Outros,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Empregado,Parcial,ViÃºvo,Alta,Sim,Mais de 5 anos,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Aposentado,Parcial,Divorciado,MÃ©dia,Sim,3 a 5 anos,Fiador,Idoso,Financiamento,MÃ©dio,0,0
+Sim,Empregado,Outros,Divorciado,Alta,NÃ£o,Menos de 1 ano,Nenhuma,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Estudante,Parcial,Solteiro,Alta,NÃ£o,3 a 5 anos,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Aposentado,Outros,ViÃºvo,MÃ©dia,Sim,3 a 5 anos,Nenhuma,Jovem,Financiamento,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Outros,Casado,Alta,Sim,Mais de 5 anos,Fiador,Adulto,Financiamento,MÃ©dio,0,0
+Sim,Desempregado,Parcial,Divorciado,MÃ©dia,Sim,Mais de 5 anos,Nenhuma,Adulto,Financiamento,Baixo,0,0
+Sim,Aposentado,Integral,Solteiro,MÃ©dia,NÃ£o,1 a 3 anos,Outros,Jovem,CrÃ©dito Consignado,Baixo,0,0
+Sim,Aposentado,Outros,Solteiro,MÃ©dia,NÃ£o,3 a 5 anos,Nenhuma,Adulto,Financiamento,Baixo,0,0
+NÃ£o,Aposentado,Parcial,Solteiro,Baixa,Sim,Mais de 5 anos,ImÃ³vel,Jovem,Financiamento,Baixo,0,0
+Sim,Empregado,Parcial,Divorciado,MÃ©dia,Sim,3 a 5 anos,ImÃ³vel,Adulto,Financiamento,MÃ©dio,0,0
+NÃ£o,Estudante,Integral,ViÃºvo,Baixa,NÃ£o,Mais de 5 anos,Outros,Idoso,CrÃ©dito Pessoal,Alto,1,0
+Sim,Desempregado,Parcial,Solteiro,Alta,NÃ£o,3 a 5 anos,Outros,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Desempregado,Parcial,Divorciado,Baixa,Sim,Menos de 1 ano,Outros,Idoso,CrÃ©dito Consignado,Alto,1,0
+Sim,Empregado,Outros,Casado,MÃ©dia,NÃ£o,1 a 3 anos,ImÃ³vel,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Desempregado,Parcial,Casado,Baixa,Sim,Mais de 5 anos,Outros,Idoso,Financiamento,MÃ©dio,0,0
+NÃ£o,Estudante,Integral,Solteiro,Alta,Sim,Mais de 5 anos,Nenhuma,Idoso,Financiamento,MÃ©dio,0,0
+NÃ£o,Desempregado,Integral,Divorciado,Alta,Sim,Menos de 1 ano,Fiador,Idoso,Financiamento,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Outros,Casado,Alta,NÃ£o,1 a 3 anos,Outros,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Aposentado,Parcial,Solteiro,Alta,NÃ£o,Menos de 1 ano,Outros,Idoso,Financiamento,Alto,1,0
+NÃ£o,Aposentado,Integral,ViÃºvo,MÃ©dia,Sim,3 a 5 anos,Fiador,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Integral,Casado,MÃ©dia,Sim,Menos de 1 ano,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Empregado,Outros,Casado,Alta,NÃ£o,1 a 3 anos,ImÃ³vel,Jovem,Financiamento,Alto,1,0
+Sim,Aposentado,Outros,Casado,Baixa,NÃ£o,Mais de 5 anos,ImÃ³vel,Idoso,Financiamento,Alto,1,0
+Sim,Estudante,Parcial,Solteiro,MÃ©dia,Sim,Mais de 5 anos,Outros,Adulto,CrÃ©dito Consignado,Baixo,0,0
+Sim,AutÃ´nomo,Parcial,Solteiro,Baixa,Sim,3 a 5 anos,Nenhuma,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Estudante,Parcial,Solteiro,Alta,Sim,3 a 5 anos,Nenhuma,Jovem,CrÃ©dito Consignado,Baixo,0,0
+Sim,Estudante,Parcial,Divorciado,MÃ©dia,Sim,3 a 5 anos,Fiador,Jovem,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Aposentado,Parcial,Solteiro,Alta,NÃ£o,3 a 5 anos,Outros,Jovem,CrÃ©dito Consignado,Alto,1,0
+Sim,Desempregado,Parcial,Solteiro,Alta,NÃ£o,3 a 5 anos,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Aposentado,Outros,ViÃºvo,Alta,NÃ£o,Menos de 1 ano,Outros,Jovem,Financiamento,MÃ©dio,0,0
+NÃ£o,Aposentado,Outros,Divorciado,MÃ©dia,Sim,3 a 5 anos,Nenhuma,Jovem,Financiamento,Alto,1,0
+Sim,Empregado,Outros,Divorciado,Baixa,NÃ£o,Mais de 5 anos,Outros,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Empregado,Integral,Casado,Baixa,Sim,3 a 5 anos,Nenhuma,Jovem,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Empregado,Outros,ViÃºvo,Alta,NÃ£o,3 a 5 anos,Nenhuma,Idoso,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Empregado,Outros,ViÃºvo,Baixa,NÃ£o,1 a 3 anos,Fiador,Adulto,Financiamento,MÃ©dio,0,0
+Sim,Estudante,Outros,Casado,Baixa,Sim,Menos de 1 ano,Fiador,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Aposentado,Parcial,Divorciado,Alta,NÃ£o,3 a 5 anos,Fiador,Idoso,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,AutÃ´nomo,Outros,Solteiro,Alta,Sim,Mais de 5 anos,Fiador,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,AutÃ´nomo,Outros,ViÃºvo,MÃ©dia,Sim,Menos de 1 ano,Fiador,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Empregado,Outros,Casado,MÃ©dia,Sim,Mais de 5 anos,ImÃ³vel,Adulto,Financiamento,Baixo,0,0
+NÃ£o,Desempregado,Parcial,Divorciado,Alta,Sim,Mais de 5 anos,Fiador,Adulto,Financiamento,Baixo,0,0
+NÃ£o,AutÃ´nomo,Integral,ViÃºvo,Alta,NÃ£o,1 a 3 anos,Fiador,Jovem,Financiamento,Alto,1,0
+Sim,Aposentado,Integral,Casado,MÃ©dia,NÃ£o,Menos de 1 ano,Fiador,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Empregado,Integral,ViÃºvo,MÃ©dia,Sim,Menos de 1 ano,Fiador,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Aposentado,Integral,ViÃºvo,Baixa,NÃ£o,3 a 5 anos,Outros,Idoso,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Aposentado,Integral,Divorciado,Baixa,Sim,3 a 5 anos,ImÃ³vel,Jovem,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Aposentado,Outros,Solteiro,MÃ©dia,Sim,3 a 5 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Aposentado,Outros,Casado,Baixa,Sim,Menos de 1 ano,ImÃ³vel,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Aposentado,Parcial,Solteiro,Alta,Sim,Menos de 1 ano,Nenhuma,Adulto,Financiamento,Baixo,0,0
+NÃ£o,Desempregado,Integral,Divorciado,MÃ©dia,NÃ£o,Mais de 5 anos,Fiador,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Empregado,Outros,Casado,MÃ©dia,Sim,3 a 5 anos,Outros,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Desempregado,Parcial,Divorciado,Baixa,Sim,Mais de 5 anos,Outros,Jovem,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Aposentado,Parcial,ViÃºvo,Baixa,Sim,Mais de 5 anos,Fiador,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Estudante,Outros,Solteiro,MÃ©dia,Sim,Mais de 5 anos,Outros,Jovem,Financiamento,Alto,1,0
+Sim,Estudante,Outros,Solteiro,Alta,NÃ£o,3 a 5 anos,Fiador,Jovem,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,AutÃ´nomo,Integral,Solteiro,Baixa,NÃ£o,3 a 5 anos,ImÃ³vel,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Estudante,Outros,Divorciado,Alta,NÃ£o,Menos de 1 ano,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Desempregado,Outros,Solteiro,MÃ©dia,NÃ£o,3 a 5 anos,Fiador,Adulto,CrÃ©dito Consignado,Alto,1,0
+Sim,AutÃ´nomo,Integral,ViÃºvo,Baixa,NÃ£o,Menos de 1 ano,Outros,Idoso,Financiamento,MÃ©dio,0,0
+NÃ£o,Empregado,Parcial,Casado,MÃ©dia,NÃ£o,3 a 5 anos,ImÃ³vel,Jovem,CrÃ©dito Consignado,Baixo,0,0
+Sim,Aposentado,Outros,ViÃºvo,Baixa,Sim,3 a 5 anos,Nenhuma,Jovem,CrÃ©dito Consignado,Alto,1,0
+Sim,Aposentado,Parcial,Solteiro,Baixa,NÃ£o,1 a 3 anos,ImÃ³vel,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Estudante,Parcial,Casado,Alta,Sim,Menos de 1 ano,ImÃ³vel,Idoso,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Aposentado,Parcial,Divorciado,MÃ©dia,Sim,1 a 3 anos,Nenhuma,Idoso,Financiamento,Baixo,0,0
+Sim,Empregado,Outros,Solteiro,Alta,Sim,Mais de 5 anos,Nenhuma,Jovem,Financiamento,Baixo,0,0
+Sim,Aposentado,Outros,Solteiro,MÃ©dia,Sim,1 a 3 anos,Outros,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Estudante,Integral,Casado,Alta,Sim,Menos de 1 ano,Outros,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Desempregado,Outros,Divorciado,MÃ©dia,Sim,Mais de 5 anos,Nenhuma,Jovem,CrÃ©dito Pessoal,Alto,1,0
+Sim,Desempregado,Integral,Divorciado,Baixa,Sim,1 a 3 anos,Fiador,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Empregado,Parcial,Casado,Alta,Sim,1 a 3 anos,Nenhuma,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Aposentado,Outros,Solteiro,Baixa,Sim,1 a 3 anos,Outros,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Desempregado,Parcial,Solteiro,Baixa,NÃ£o,Mais de 5 anos,Fiador,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Estudante,Integral,Casado,Baixa,NÃ£o,1 a 3 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,AutÃ´nomo,Parcial,ViÃºvo,Baixa,NÃ£o,1 a 3 anos,ImÃ³vel,Idoso,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Aposentado,Outros,Casado,Alta,Sim,1 a 3 anos,ImÃ³vel,Jovem,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Empregado,Outros,ViÃºvo,Baixa,NÃ£o,1 a 3 anos,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Desempregado,Outros,Casado,MÃ©dia,NÃ£o,1 a 3 anos,Nenhuma,Jovem,Financiamento,Baixo,0,0
+NÃ£o,Desempregado,Integral,Casado,Baixa,NÃ£o,3 a 5 anos,Outros,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Aposentado,Parcial,Solteiro,Baixa,NÃ£o,Menos de 1 ano,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Aposentado,Outros,Divorciado,MÃ©dia,NÃ£o,1 a 3 anos,Outros,Adulto,CrÃ©dito Pessoal,Alto,1,0
+Sim,AutÃ´nomo,Parcial,ViÃºvo,Baixa,NÃ£o,Mais de 5 anos,Outros,Idoso,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Empregado,Parcial,Divorciado,Alta,NÃ£o,1 a 3 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Desempregado,Parcial,Divorciado,Baixa,Sim,3 a 5 anos,ImÃ³vel,Idoso,Financiamento,Alto,1,0
+NÃ£o,Aposentado,Integral,Divorciado,Alta,Sim,1 a 3 anos,Outros,Idoso,CrÃ©dito Pessoal,Alto,1,0
+Sim,AutÃ´nomo,Parcial,Casado,Alta,Sim,3 a 5 anos,Outros,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Empregado,Integral,Casado,MÃ©dia,Sim,3 a 5 anos,Outros,Adulto,CrÃ©dito Pessoal,Alto,1,0
+Sim,AutÃ´nomo,Integral,ViÃºvo,Alta,Sim,Mais de 5 anos,Nenhuma,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+Sim,AutÃ´nomo,Parcial,Divorciado,MÃ©dia,Sim,1 a 3 anos,ImÃ³vel,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Aposentado,Integral,Solteiro,MÃ©dia,Sim,Menos de 1 ano,Nenhuma,Jovem,CrÃ©dito Pessoal,Alto,1,0
+Sim,Desempregado,Outros,Solteiro,Alta,NÃ£o,1 a 3 anos,Outros,Idoso,Financiamento,Baixo,0,0
+Sim,AutÃ´nomo,Outros,ViÃºvo,MÃ©dia,Sim,Mais de 5 anos,Outros,Adulto,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Aposentado,Integral,Casado,Baixa,Sim,Menos de 1 ano,Outros,Adulto,CrÃ©dito Consignado,Alto,1,0
+Sim,Desempregado,Integral,Divorciado,MÃ©dia,Sim,Menos de 1 ano,Outros,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Parcial,Casado,MÃ©dia,Sim,3 a 5 anos,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Estudante,Parcial,Divorciado,Baixa,Sim,3 a 5 anos,Fiador,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Desempregado,Integral,ViÃºvo,Baixa,NÃ£o,1 a 3 anos,ImÃ³vel,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Estudante,Integral,Casado,Baixa,NÃ£o,1 a 3 anos,Fiador,Adulto,CrÃ©dito Consignado,Alto,1,0
+Sim,Desempregado,Integral,Casado,Alta,Sim,3 a 5 anos,Nenhuma,Jovem,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,AutÃ´nomo,Outros,Solteiro,Baixa,Sim,1 a 3 anos,ImÃ³vel,Idoso,CrÃ©dito Consignado,Alto,1,0
+Sim,Empregado,Parcial,Divorciado,MÃ©dia,Sim,Mais de 5 anos,ImÃ³vel,Jovem,Financiamento,Baixo,0,0
+Sim,Estudante,Integral,Divorciado,Alta,Sim,1 a 3 anos,ImÃ³vel,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Desempregado,Integral,Casado,Baixa,NÃ£o,1 a 3 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Estudante,Integral,Divorciado,Alta,Sim,3 a 5 anos,Fiador,Jovem,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Empregado,Integral,Solteiro,MÃ©dia,NÃ£o,Mais de 5 anos,Outros,Adulto,Financiamento,MÃ©dio,0,0
+NÃ£o,Estudante,Outros,Solteiro,Alta,NÃ£o,Mais de 5 anos,ImÃ³vel,Jovem,Financiamento,Alto,1,0
+NÃ£o,AutÃ´nomo,Integral,Divorciado,MÃ©dia,Sim,3 a 5 anos,Fiador,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Desempregado,Outros,Solteiro,MÃ©dia,Sim,1 a 3 anos,Nenhuma,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Empregado,Outros,Divorciado,Alta,NÃ£o,1 a 3 anos,ImÃ³vel,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Empregado,Outros,Solteiro,Baixa,Sim,Menos de 1 ano,ImÃ³vel,Jovem,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,AutÃ´nomo,Integral,Casado,Alta,Sim,3 a 5 anos,Nenhuma,Jovem,Financiamento,Baixo,0,0
+NÃ£o,Estudante,Integral,ViÃºvo,Alta,NÃ£o,Mais de 5 anos,Fiador,Adulto,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Aposentado,Integral,Solteiro,MÃ©dia,NÃ£o,1 a 3 anos,Fiador,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,AutÃ´nomo,Integral,Divorciado,Baixa,Sim,Menos de 1 ano,Fiador,Jovem,CrÃ©dito Consignado,Baixo,0,0
+Sim,Aposentado,Outros,ViÃºvo,Baixa,NÃ£o,Menos de 1 ano,ImÃ³vel,Idoso,Financiamento,Alto,1,0
+Sim,Estudante,Integral,Divorciado,MÃ©dia,NÃ£o,1 a 3 anos,Fiador,Idoso,Financiamento,Alto,1,0
+NÃ£o,Empregado,Outros,Solteiro,Baixa,Sim,Mais de 5 anos,ImÃ³vel,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Empregado,Parcial,Casado,Alta,Sim,3 a 5 anos,Nenhuma,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Empregado,Integral,Solteiro,Alta,NÃ£o,Menos de 1 ano,Outros,Adulto,CrÃ©dito Consignado,Alto,1,0
+Sim,Empregado,Outros,Divorciado,MÃ©dia,NÃ£o,Menos de 1 ano,Outros,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Empregado,Parcial,Solteiro,Alta,Sim,Mais de 5 anos,Outros,Adulto,Financiamento,Alto,1,0
+Sim,Aposentado,Parcial,Solteiro,MÃ©dia,NÃ£o,Menos de 1 ano,Outros,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Aposentado,Outros,ViÃºvo,MÃ©dia,Sim,Mais de 5 anos,Fiador,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Desempregado,Integral,Divorciado,Alta,Sim,Menos de 1 ano,Nenhuma,Jovem,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Desempregado,Outros,Divorciado,MÃ©dia,Sim,Menos de 1 ano,Outros,Jovem,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Integral,Solteiro,Alta,NÃ£o,3 a 5 anos,Outros,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Aposentado,Integral,Casado,MÃ©dia,NÃ£o,1 a 3 anos,Nenhuma,Idoso,Financiamento,Alto,1,0
+NÃ£o,AutÃ´nomo,Integral,Divorciado,MÃ©dia,Sim,Mais de 5 anos,Fiador,Jovem,CrÃ©dito Consignado,Alto,1,0
+Sim,Estudante,Parcial,Divorciado,Alta,NÃ£o,Mais de 5 anos,Fiador,Jovem,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Estudante,Parcial,Casado,Alta,NÃ£o,1 a 3 anos,ImÃ³vel,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Desempregado,Parcial,Solteiro,Baixa,NÃ£o,Menos de 1 ano,Outros,Idoso,Financiamento,MÃ©dio,0,0
+NÃ£o,Desempregado,Parcial,Casado,MÃ©dia,Sim,3 a 5 anos,Fiador,Idoso,CrÃ©dito Consignado,Alto,1,0
+Sim,Desempregado,Parcial,ViÃºvo,MÃ©dia,Sim,1 a 3 anos,ImÃ³vel,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Estudante,Integral,Casado,Alta,NÃ£o,1 a 3 anos,Outros,Adulto,Financiamento,Baixo,0,0
+NÃ£o,Aposentado,Outros,Solteiro,Alta,NÃ£o,3 a 5 anos,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Empregado,Integral,Divorciado,MÃ©dia,NÃ£o,3 a 5 anos,Nenhuma,Jovem,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Desempregado,Outros,Solteiro,Baixa,Sim,1 a 3 anos,ImÃ³vel,Adulto,CrÃ©dito Pessoal,Alto,1,0
+Sim,AutÃ´nomo,Outros,ViÃºvo,MÃ©dia,Sim,1 a 3 anos,ImÃ³vel,Idoso,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,AutÃ´nomo,Parcial,ViÃºvo,Baixa,NÃ£o,3 a 5 anos,Outros,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Empregado,Outros,ViÃºvo,Alta,Sim,1 a 3 anos,Outros,Jovem,CrÃ©dito Consignado,Baixo,0,0
+Sim,Desempregado,Integral,Solteiro,Alta,Sim,1 a 3 anos,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Aposentado,Parcial,ViÃºvo,Alta,NÃ£o,Mais de 5 anos,ImÃ³vel,Idoso,CrÃ©dito Pessoal,Alto,1,0
+Sim,AutÃ´nomo,Parcial,Solteiro,MÃ©dia,Sim,1 a 3 anos,Nenhuma,Jovem,CrÃ©dito Consignado,Baixo,0,0
+Sim,AutÃ´nomo,Outros,Divorciado,Baixa,NÃ£o,Menos de 1 ano,Fiador,Jovem,Financiamento,Baixo,0,0
+NÃ£o,Empregado,Integral,Divorciado,Baixa,NÃ£o,3 a 5 anos,Fiador,Idoso,Financiamento,MÃ©dio,0,0
+Sim,Desempregado,Integral,Casado,Alta,NÃ£o,3 a 5 anos,Outros,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Empregado,Outros,Solteiro,Baixa,NÃ£o,Mais de 5 anos,Outros,Jovem,Financiamento,MÃ©dio,0,0
+NÃ£o,Empregado,Outros,Solteiro,MÃ©dia,NÃ£o,3 a 5 anos,Fiador,Jovem,CrÃ©dito Consignado,Baixo,0,0
+Sim,AutÃ´nomo,Integral,ViÃºvo,MÃ©dia,Sim,3 a 5 anos,Nenhuma,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,AutÃ´nomo,Outros,Solteiro,Baixa,Sim,Mais de 5 anos,Nenhuma,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Desempregado,Integral,Solteiro,Baixa,NÃ£o,Mais de 5 anos,ImÃ³vel,Jovem,Financiamento,Baixo,0,0
+NÃ£o,AutÃ´nomo,Outros,Solteiro,Alta,Sim,Menos de 1 ano,Fiador,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Outros,ViÃºvo,Alta,NÃ£o,Mais de 5 anos,ImÃ³vel,Jovem,Financiamento,Baixo,0,0
+NÃ£o,Empregado,Parcial,Divorciado,Baixa,NÃ£o,Mais de 5 anos,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Empregado,Outros,ViÃºvo,Baixa,Sim,Mais de 5 anos,Fiador,Idoso,Financiamento,Alto,1,0
+Sim,Desempregado,Parcial,Solteiro,Baixa,NÃ£o,Mais de 5 anos,ImÃ³vel,Jovem,CrÃ©dito Pessoal,Alto,1,0
+Sim,Aposentado,Integral,ViÃºvo,Alta,NÃ£o,Mais de 5 anos,Outros,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Parcial,Solteiro,Alta,NÃ£o,Menos de 1 ano,ImÃ³vel,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Aposentado,Outros,Divorciado,MÃ©dia,NÃ£o,1 a 3 anos,Outros,Adulto,Financiamento,Alto,1,0
+Sim,Estudante,Parcial,Divorciado,MÃ©dia,Sim,Mais de 5 anos,Nenhuma,Adulto,Financiamento,Baixo,0,0
+Sim,Empregado,Outros,Divorciado,Alta,Sim,Mais de 5 anos,Outros,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Empregado,Outros,Divorciado,Baixa,Sim,3 a 5 anos,Outros,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Desempregado,Outros,Casado,MÃ©dia,NÃ£o,3 a 5 anos,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Estudante,Outros,Solteiro,MÃ©dia,NÃ£o,Menos de 1 ano,Nenhuma,Idoso,Financiamento,Alto,1,0
+NÃ£o,Empregado,Integral,Solteiro,MÃ©dia,Sim,1 a 3 anos,Fiador,Idoso,CrÃ©dito Consignado,Baixo,0,0
+Sim,AutÃ´nomo,Parcial,Divorciado,Baixa,Sim,Mais de 5 anos,Outros,Jovem,CrÃ©dito Consignado,Alto,1,0
+Sim,AutÃ´nomo,Parcial,Casado,Baixa,NÃ£o,1 a 3 anos,Fiador,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Estudante,Outros,Casado,MÃ©dia,NÃ£o,3 a 5 anos,ImÃ³vel,Adulto,Financiamento,MÃ©dio,0,0
+NÃ£o,Estudante,Parcial,Solteiro,MÃ©dia,Sim,Mais de 5 anos,Fiador,Adulto,Financiamento,MÃ©dio,0,0
+NÃ£o,Estudante,Outros,ViÃºvo,Baixa,NÃ£o,1 a 3 anos,Nenhuma,Jovem,Financiamento,Alto,1,0
+Sim,Desempregado,Integral,ViÃºvo,Baixa,Sim,Mais de 5 anos,Nenhuma,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Desempregado,Outros,Divorciado,Baixa,NÃ£o,3 a 5 anos,Outros,Idoso,CrÃ©dito Consignado,Alto,1,0
+Sim,Aposentado,Parcial,ViÃºvo,Baixa,NÃ£o,Menos de 1 ano,Nenhuma,Idoso,Financiamento,Alto,1,0
+Sim,Desempregado,Integral,ViÃºvo,Alta,Sim,1 a 3 anos,Fiador,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,AutÃ´nomo,Parcial,ViÃºvo,Alta,Sim,3 a 5 anos,Outros,Jovem,Financiamento,MÃ©dio,0,0
+Sim,Empregado,Outros,Casado,Alta,NÃ£o,1 a 3 anos,Outros,Idoso,Financiamento,Alto,1,0
+Sim,Aposentado,Outros,Casado,MÃ©dia,NÃ£o,3 a 5 anos,ImÃ³vel,Jovem,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Aposentado,Parcial,Casado,MÃ©dia,Sim,1 a 3 anos,Nenhuma,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Estudante,Outros,Solteiro,MÃ©dia,NÃ£o,Mais de 5 anos,Fiador,Jovem,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Empregado,Outros,ViÃºvo,Alta,NÃ£o,Menos de 1 ano,Nenhuma,Jovem,Financiamento,MÃ©dio,0,0
+NÃ£o,Empregado,Parcial,Solteiro,Baixa,Sim,1 a 3 anos,Outros,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,AutÃ´nomo,Outros,ViÃºvo,Alta,NÃ£o,Mais de 5 anos,Fiador,Jovem,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,AutÃ´nomo,Outros,Solteiro,Baixa,Sim,3 a 5 anos,Nenhuma,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Empregado,Parcial,Divorciado,MÃ©dia,NÃ£o,Mais de 5 anos,Nenhuma,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Empregado,Outros,ViÃºvo,Alta,NÃ£o,3 a 5 anos,ImÃ³vel,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,AutÃ´nomo,Parcial,Divorciado,MÃ©dia,Sim,3 a 5 anos,Nenhuma,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Empregado,Integral,Solteiro,MÃ©dia,NÃ£o,3 a 5 anos,Fiador,Idoso,Financiamento,MÃ©dio,0,0
+Sim,Desempregado,Integral,Solteiro,MÃ©dia,Sim,Menos de 1 ano,ImÃ³vel,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,AutÃ´nomo,Integral,Solteiro,Baixa,NÃ£o,3 a 5 anos,ImÃ³vel,Jovem,Financiamento,MÃ©dio,0,0
+NÃ£o,Estudante,Outros,Solteiro,Baixa,NÃ£o,Menos de 1 ano,Fiador,Jovem,CrÃ©dito Consignado,Alto,1,0
+Sim,Aposentado,Parcial,ViÃºvo,Alta,Sim,1 a 3 anos,Nenhuma,Jovem,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Empregado,Outros,Divorciado,Alta,Sim,3 a 5 anos,Nenhuma,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Aposentado,Parcial,Solteiro,MÃ©dia,Sim,3 a 5 anos,ImÃ³vel,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Estudante,Integral,ViÃºvo,Baixa,Sim,1 a 3 anos,ImÃ³vel,Adulto,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Aposentado,Parcial,Solteiro,Baixa,Sim,Mais de 5 anos,Nenhuma,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Estudante,Integral,ViÃºvo,Alta,Sim,Menos de 1 ano,Nenhuma,Jovem,Financiamento,MÃ©dio,0,0
+Sim,Desempregado,Parcial,Casado,Alta,NÃ£o,3 a 5 anos,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Aposentado,Integral,Solteiro,MÃ©dia,Sim,3 a 5 anos,Outros,Jovem,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,AutÃ´nomo,Parcial,Casado,Baixa,NÃ£o,1 a 3 anos,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,AutÃ´nomo,Integral,Solteiro,Baixa,Sim,3 a 5 anos,Fiador,Idoso,CrÃ©dito Consignado,Alto,1,0
+Sim,Empregado,Parcial,Solteiro,Baixa,NÃ£o,Menos de 1 ano,Fiador,Idoso,Financiamento,Baixo,0,0
+NÃ£o,Estudante,Parcial,Casado,MÃ©dia,Sim,Mais de 5 anos,Nenhuma,Adulto,Financiamento,Alto,1,0
+Sim,AutÃ´nomo,Parcial,ViÃºvo,Alta,Sim,Menos de 1 ano,Outros,Jovem,Financiamento,Baixo,0,0
+NÃ£o,Empregado,Parcial,ViÃºvo,Alta,NÃ£o,3 a 5 anos,Nenhuma,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Desempregado,Integral,Casado,Alta,NÃ£o,3 a 5 anos,Fiador,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Aposentado,Outros,ViÃºvo,Alta,Sim,Mais de 5 anos,ImÃ³vel,Jovem,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Empregado,Parcial,Divorciado,MÃ©dia,Sim,3 a 5 anos,Outros,Jovem,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Aposentado,Parcial,Divorciado,Alta,Sim,3 a 5 anos,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Empregado,Outros,ViÃºvo,Alta,Sim,Menos de 1 ano,ImÃ³vel,Idoso,Financiamento,Alto,1,0
+Sim,Estudante,Outros,Casado,Alta,NÃ£o,Mais de 5 anos,Nenhuma,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Aposentado,Parcial,ViÃºvo,Alta,NÃ£o,1 a 3 anos,Fiador,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Empregado,Integral,Casado,Alta,NÃ£o,3 a 5 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Empregado,Outros,Solteiro,Baixa,NÃ£o,Menos de 1 ano,Nenhuma,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Desempregado,Outros,ViÃºvo,MÃ©dia,Sim,Mais de 5 anos,ImÃ³vel,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Desempregado,Outros,Casado,MÃ©dia,NÃ£o,Menos de 1 ano,Outros,Adulto,Financiamento,Baixo,0,0
+Sim,AutÃ´nomo,Integral,Casado,Alta,Sim,1 a 3 anos,Outros,Jovem,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Desempregado,Outros,Divorciado,MÃ©dia,Sim,3 a 5 anos,Fiador,Adulto,Financiamento,MÃ©dio,0,0
+Sim,Empregado,Integral,Casado,Baixa,Sim,1 a 3 anos,Outros,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Estudante,Integral,Solteiro,Baixa,NÃ£o,Mais de 5 anos,Fiador,Idoso,CrÃ©dito Consignado,Baixo,0,0
+Sim,Empregado,Parcial,Divorciado,Baixa,NÃ£o,Menos de 1 ano,Outros,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Desempregado,Parcial,Divorciado,MÃ©dia,Sim,Menos de 1 ano,Fiador,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Aposentado,Outros,Divorciado,Baixa,NÃ£o,Menos de 1 ano,Nenhuma,Idoso,Financiamento,Baixo,0,0
+Sim,AutÃ´nomo,Outros,Divorciado,MÃ©dia,Sim,Mais de 5 anos,Outros,Idoso,Financiamento,Baixo,0,0
+Sim,Empregado,Outros,Casado,Baixa,NÃ£o,1 a 3 anos,ImÃ³vel,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Empregado,Integral,ViÃºvo,Alta,NÃ£o,Menos de 1 ano,Nenhuma,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Empregado,Parcial,ViÃºvo,Alta,Sim,1 a 3 anos,Nenhuma,Adulto,Financiamento,MÃ©dio,0,0
+Sim,AutÃ´nomo,Outros,Solteiro,MÃ©dia,NÃ£o,Menos de 1 ano,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Aposentado,Outros,Divorciado,MÃ©dia,NÃ£o,3 a 5 anos,ImÃ³vel,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Aposentado,Integral,Casado,Baixa,Sim,1 a 3 anos,Fiador,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Aposentado,Outros,ViÃºvo,Alta,Sim,Menos de 1 ano,Outros,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Estudante,Integral,Solteiro,Baixa,Sim,1 a 3 anos,Nenhuma,Jovem,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Estudante,Integral,Solteiro,MÃ©dia,Sim,Menos de 1 ano,Fiador,Adulto,CrÃ©dito Consignado,Baixo,0,0
+Sim,Empregado,Parcial,ViÃºvo,Baixa,Sim,Menos de 1 ano,Fiador,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Empregado,Integral,Divorciado,MÃ©dia,NÃ£o,3 a 5 anos,Nenhuma,Jovem,Financiamento,MÃ©dio,0,0
+Sim,Desempregado,Integral,Solteiro,Alta,NÃ£o,Mais de 5 anos,Outros,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Empregado,Integral,Solteiro,MÃ©dia,NÃ£o,Menos de 1 ano,Outros,Jovem,Financiamento,Alto,1,0
+Sim,Aposentado,Parcial,Solteiro,Baixa,Sim,Mais de 5 anos,Fiador,Jovem,CrÃ©dito Consignado,Alto,1,0
+Sim,Empregado,Outros,Solteiro,Baixa,NÃ£o,1 a 3 anos,ImÃ³vel,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Estudante,Outros,Divorciado,Alta,Sim,Menos de 1 ano,Fiador,Adulto,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Aposentado,Outros,ViÃºvo,Alta,NÃ£o,1 a 3 anos,Outros,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Aposentado,Integral,Casado,MÃ©dia,Sim,Menos de 1 ano,Outros,Adulto,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Empregado,Parcial,Divorciado,MÃ©dia,NÃ£o,3 a 5 anos,ImÃ³vel,Idoso,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,AutÃ´nomo,Integral,Solteiro,MÃ©dia,NÃ£o,Menos de 1 ano,Outros,Jovem,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Aposentado,Parcial,Solteiro,Baixa,NÃ£o,3 a 5 anos,Fiador,Jovem,Financiamento,Alto,1,0
+NÃ£o,Estudante,Integral,Divorciado,MÃ©dia,NÃ£o,Menos de 1 ano,Nenhuma,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Estudante,Outros,ViÃºvo,Baixa,NÃ£o,1 a 3 anos,ImÃ³vel,Jovem,Financiamento,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Integral,Casado,MÃ©dia,Sim,3 a 5 anos,ImÃ³vel,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Aposentado,Outros,Solteiro,MÃ©dia,Sim,1 a 3 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Estudante,Outros,Casado,Alta,NÃ£o,1 a 3 anos,Outros,Adulto,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Empregado,Outros,ViÃºvo,Alta,NÃ£o,Menos de 1 ano,Outros,Idoso,Financiamento,Alto,1,0
+Sim,Desempregado,Outros,Divorciado,Baixa,NÃ£o,Mais de 5 anos,Fiador,Jovem,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,AutÃ´nomo,Parcial,Divorciado,Alta,Sim,1 a 3 anos,Fiador,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Aposentado,Parcial,Divorciado,Baixa,NÃ£o,1 a 3 anos,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Aposentado,Outros,Divorciado,Baixa,Sim,Mais de 5 anos,Outros,Idoso,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,AutÃ´nomo,Outros,Divorciado,Alta,NÃ£o,3 a 5 anos,Fiador,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Aposentado,Outros,Casado,Baixa,Sim,1 a 3 anos,ImÃ³vel,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Empregado,Integral,Solteiro,Baixa,Sim,Menos de 1 ano,Outros,Jovem,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Empregado,Parcial,Casado,Baixa,NÃ£o,Mais de 5 anos,ImÃ³vel,Jovem,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Desempregado,Parcial,ViÃºvo,MÃ©dia,Sim,3 a 5 anos,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Desempregado,Outros,Casado,MÃ©dia,Sim,1 a 3 anos,ImÃ³vel,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+Sim,AutÃ´nomo,Outros,Casado,MÃ©dia,NÃ£o,1 a 3 anos,Fiador,Adulto,Financiamento,Baixo,0,0
+NÃ£o,Empregado,Integral,ViÃºvo,MÃ©dia,NÃ£o,1 a 3 anos,Fiador,Idoso,Financiamento,MÃ©dio,0,0
+Sim,AutÃ´nomo,Parcial,ViÃºvo,Alta,NÃ£o,Menos de 1 ano,Nenhuma,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,AutÃ´nomo,Parcial,Divorciado,MÃ©dia,NÃ£o,1 a 3 anos,Outros,Jovem,CrÃ©dito Pessoal,Alto,1,0
+Sim,AutÃ´nomo,Integral,Solteiro,Baixa,NÃ£o,Mais de 5 anos,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Aposentado,Outros,ViÃºvo,Alta,Sim,Mais de 5 anos,Nenhuma,Idoso,Financiamento,Baixo,0,0
+Sim,Empregado,Outros,ViÃºvo,Baixa,Sim,Mais de 5 anos,Fiador,Adulto,CrÃ©dito Consignado,Alto,1,0
+Sim,Estudante,Outros,Solteiro,Alta,Sim,Menos de 1 ano,Outros,Idoso,Financiamento,MÃ©dio,0,0
+NÃ£o,Empregado,Parcial,ViÃºvo,Alta,Sim,1 a 3 anos,ImÃ³vel,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Aposentado,Integral,ViÃºvo,Baixa,Sim,Menos de 1 ano,Outros,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Empregado,Parcial,ViÃºvo,MÃ©dia,NÃ£o,Menos de 1 ano,Fiador,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,AutÃ´nomo,Integral,ViÃºvo,Alta,NÃ£o,1 a 3 anos,Fiador,Adulto,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Desempregado,Outros,ViÃºvo,MÃ©dia,NÃ£o,Menos de 1 ano,ImÃ³vel,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,AutÃ´nomo,Parcial,Solteiro,MÃ©dia,NÃ£o,Menos de 1 ano,Outros,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,AutÃ´nomo,Integral,ViÃºvo,Baixa,Sim,1 a 3 anos,Nenhuma,Jovem,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Aposentado,Outros,Casado,MÃ©dia,NÃ£o,Mais de 5 anos,Nenhuma,Adulto,CrÃ©dito Consignado,Alto,1,0
+Sim,Desempregado,Outros,Solteiro,Baixa,Sim,Mais de 5 anos,Outros,Adulto,Financiamento,MÃ©dio,0,0
+NÃ£o,Aposentado,Integral,Solteiro,MÃ©dia,NÃ£o,1 a 3 anos,Fiador,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Empregado,Parcial,Casado,Baixa,NÃ£o,1 a 3 anos,Fiador,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,AutÃ´nomo,Parcial,Divorciado,MÃ©dia,NÃ£o,3 a 5 anos,ImÃ³vel,Adulto,CrÃ©dito Consignado,Alto,1,0
+Sim,Estudante,Outros,Solteiro,Baixa,NÃ£o,1 a 3 anos,Nenhuma,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Empregado,Integral,Solteiro,MÃ©dia,Sim,Menos de 1 ano,Outros,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Desempregado,Integral,Divorciado,Baixa,Sim,Mais de 5 anos,ImÃ³vel,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Aposentado,Outros,Divorciado,MÃ©dia,Sim,1 a 3 anos,ImÃ³vel,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Aposentado,Outros,ViÃºvo,MÃ©dia,NÃ£o,Mais de 5 anos,Fiador,Jovem,Financiamento,MÃ©dio,0,0
+Sim,Desempregado,Parcial,Solteiro,MÃ©dia,NÃ£o,1 a 3 anos,Fiador,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Empregado,Parcial,Casado,Alta,NÃ£o,3 a 5 anos,Outros,Adulto,Financiamento,Alto,1,0
+NÃ£o,Estudante,Outros,ViÃºvo,Alta,NÃ£o,Mais de 5 anos,Fiador,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Outros,ViÃºvo,MÃ©dia,Sim,3 a 5 anos,Outros,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,AutÃ´nomo,Integral,Casado,Baixa,NÃ£o,Mais de 5 anos,Fiador,Adulto,Financiamento,MÃ©dio,0,0
+NÃ£o,Estudante,Integral,Solteiro,Baixa,NÃ£o,Menos de 1 ano,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Empregado,Integral,Solteiro,MÃ©dia,NÃ£o,3 a 5 anos,Nenhuma,Idoso,Financiamento,Baixo,0,0
+Sim,Aposentado,Integral,Solteiro,MÃ©dia,Sim,3 a 5 anos,Outros,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Estudante,Outros,Solteiro,MÃ©dia,NÃ£o,1 a 3 anos,Outros,Idoso,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Empregado,Outros,Solteiro,MÃ©dia,NÃ£o,1 a 3 anos,ImÃ³vel,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Estudante,Parcial,Casado,Baixa,Sim,Mais de 5 anos,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Desempregado,Parcial,Casado,Baixa,NÃ£o,3 a 5 anos,Nenhuma,Jovem,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,AutÃ´nomo,Parcial,Divorciado,Baixa,NÃ£o,1 a 3 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Desempregado,Integral,Solteiro,Alta,Sim,Menos de 1 ano,ImÃ³vel,Jovem,Financiamento,Baixo,0,0
+NÃ£o,Desempregado,Integral,Solteiro,Baixa,NÃ£o,Menos de 1 ano,Fiador,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Empregado,Parcial,Solteiro,Baixa,NÃ£o,1 a 3 anos,Outros,Jovem,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,AutÃ´nomo,Outros,Solteiro,Baixa,Sim,1 a 3 anos,Fiador,Adulto,Financiamento,MÃ©dio,0,0
+NÃ£o,Desempregado,Parcial,Divorciado,Alta,NÃ£o,1 a 3 anos,Fiador,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,AutÃ´nomo,Integral,Casado,Alta,NÃ£o,3 a 5 anos,Nenhuma,Jovem,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Aposentado,Integral,ViÃºvo,MÃ©dia,NÃ£o,Mais de 5 anos,Nenhuma,Adulto,Financiamento,MÃ©dio,0,0
+Sim,Empregado,Outros,ViÃºvo,Baixa,Sim,Mais de 5 anos,Outros,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Empregado,Outros,Casado,Baixa,NÃ£o,Mais de 5 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Estudante,Integral,ViÃºvo,Alta,NÃ£o,Mais de 5 anos,Nenhuma,Adulto,Financiamento,Alto,1,0
+NÃ£o,Desempregado,Parcial,ViÃºvo,MÃ©dia,NÃ£o,3 a 5 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,AutÃ´nomo,Integral,Divorciado,MÃ©dia,NÃ£o,3 a 5 anos,Fiador,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Aposentado,Integral,Divorciado,MÃ©dia,NÃ£o,Menos de 1 ano,Outros,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Aposentado,Integral,ViÃºvo,MÃ©dia,Sim,Mais de 5 anos,Fiador,Jovem,Financiamento,Baixo,0,0
+Sim,Empregado,Parcial,Solteiro,Baixa,NÃ£o,Menos de 1 ano,Nenhuma,Jovem,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Estudante,Parcial,Divorciado,Baixa,Sim,3 a 5 anos,Fiador,Jovem,Financiamento,Baixo,0,0
+NÃ£o,Desempregado,Integral,Divorciado,Alta,Sim,1 a 3 anos,Nenhuma,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Estudante,Parcial,Casado,Baixa,NÃ£o,Menos de 1 ano,Outros,Jovem,Financiamento,Alto,1,0
+NÃ£o,Estudante,Integral,ViÃºvo,MÃ©dia,Sim,3 a 5 anos,Nenhuma,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Empregado,Outros,Casado,Alta,NÃ£o,3 a 5 anos,ImÃ³vel,Adulto,CrÃ©dito Consignado,Baixo,0,0
+Sim,AutÃ´nomo,Outros,ViÃºvo,MÃ©dia,Sim,3 a 5 anos,Outros,Adulto,CrÃ©dito Consignado,Alto,1,0
+Sim,Empregado,Integral,Solteiro,Baixa,Sim,1 a 3 anos,ImÃ³vel,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,AutÃ´nomo,Outros,Solteiro,Baixa,NÃ£o,Menos de 1 ano,Fiador,Jovem,Financiamento,Alto,1,0
+Sim,AutÃ´nomo,Integral,Solteiro,MÃ©dia,Sim,3 a 5 anos,Fiador,Adulto,Financiamento,MÃ©dio,0,0
+NÃ£o,Aposentado,Integral,ViÃºvo,Alta,NÃ£o,3 a 5 anos,Nenhuma,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Estudante,Parcial,ViÃºvo,Alta,Sim,Mais de 5 anos,ImÃ³vel,Jovem,Financiamento,Baixo,0,0
+Sim,Estudante,Integral,ViÃºvo,Alta,Sim,3 a 5 anos,Fiador,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Empregado,Parcial,ViÃºvo,Baixa,NÃ£o,Menos de 1 ano,ImÃ³vel,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Estudante,Integral,Divorciado,Alta,NÃ£o,Mais de 5 anos,Fiador,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Estudante,Outros,Casado,MÃ©dia,NÃ£o,1 a 3 anos,Fiador,Jovem,Financiamento,Baixo,0,0
+NÃ£o,Aposentado,Integral,ViÃºvo,Alta,Sim,Menos de 1 ano,Fiador,Idoso,CrÃ©dito Consignado,Baixo,0,0
+Sim,Aposentado,Integral,Divorciado,Alta,Sim,Mais de 5 anos,Fiador,Idoso,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Aposentado,Integral,Divorciado,Baixa,Sim,Mais de 5 anos,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Aposentado,Outros,Divorciado,Alta,NÃ£o,3 a 5 anos,Fiador,Adulto,Financiamento,Alto,1,0
+Sim,Empregado,Outros,ViÃºvo,MÃ©dia,NÃ£o,1 a 3 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Desempregado,Integral,ViÃºvo,Alta,NÃ£o,Menos de 1 ano,Nenhuma,Idoso,Financiamento,Baixo,0,0
+NÃ£o,Aposentado,Outros,Solteiro,MÃ©dia,NÃ£o,1 a 3 anos,Outros,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Outros,Solteiro,Alta,Sim,Menos de 1 ano,ImÃ³vel,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Empregado,Parcial,Solteiro,Baixa,Sim,3 a 5 anos,Fiador,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Aposentado,Integral,ViÃºvo,Alta,NÃ£o,1 a 3 anos,Fiador,Idoso,CrÃ©dito Pessoal,Alto,1,0
+Sim,Desempregado,Outros,Solteiro,MÃ©dia,Sim,3 a 5 anos,Outros,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Estudante,Integral,Divorciado,MÃ©dia,Sim,3 a 5 anos,Nenhuma,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Desempregado,Outros,Solteiro,Alta,Sim,1 a 3 anos,ImÃ³vel,Jovem,Financiamento,Alto,1,0
+NÃ£o,Estudante,Parcial,Divorciado,Alta,Sim,1 a 3 anos,Fiador,Idoso,CrÃ©dito Pessoal,Alto,1,0
+Sim,Aposentado,Integral,Casado,Baixa,Sim,Mais de 5 anos,Nenhuma,Idoso,CrÃ©dito Pessoal,Alto,1,0
+Sim,Aposentado,Outros,ViÃºvo,Baixa,Sim,3 a 5 anos,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Estudante,Parcial,ViÃºvo,Alta,NÃ£o,3 a 5 anos,Fiador,Adulto,Financiamento,MÃ©dio,0,0
+Sim,AutÃ´nomo,Parcial,Casado,Alta,NÃ£o,3 a 5 anos,Fiador,Jovem,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Aposentado,Outros,Casado,Baixa,Sim,Menos de 1 ano,ImÃ³vel,Adulto,CrÃ©dito Consignado,Baixo,0,0
+Sim,Empregado,Outros,Solteiro,Alta,Sim,1 a 3 anos,Nenhuma,Jovem,CrÃ©dito Consignado,Alto,1,0
+Sim,Desempregado,Integral,Solteiro,Baixa,Sim,1 a 3 anos,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Desempregado,Parcial,ViÃºvo,MÃ©dia,NÃ£o,1 a 3 anos,Nenhuma,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Parcial,ViÃºvo,Baixa,Sim,3 a 5 anos,ImÃ³vel,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,AutÃ´nomo,Outros,ViÃºvo,MÃ©dia,NÃ£o,3 a 5 anos,Fiador,Adulto,Financiamento,Alto,1,0
+Sim,Estudante,Outros,ViÃºvo,Baixa,NÃ£o,3 a 5 anos,Fiador,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Empregado,Parcial,Casado,Alta,Sim,3 a 5 anos,Nenhuma,Jovem,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Desempregado,Integral,Solteiro,Alta,Sim,Mais de 5 anos,Outros,Idoso,CrÃ©dito Pessoal,Alto,1,0
+Sim,Aposentado,Integral,Solteiro,MÃ©dia,Sim,Menos de 1 ano,Outros,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Aposentado,Outros,ViÃºvo,Baixa,NÃ£o,Mais de 5 anos,Outros,Adulto,CrÃ©dito Consignado,Baixo,0,0
+Sim,Estudante,Integral,Solteiro,Baixa,NÃ£o,3 a 5 anos,Nenhuma,Adulto,Financiamento,Baixo,0,0
+NÃ£o,AutÃ´nomo,Outros,Divorciado,Baixa,NÃ£o,Menos de 1 ano,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Empregado,Integral,ViÃºvo,Baixa,Sim,Mais de 5 anos,Fiador,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Empregado,Parcial,Solteiro,MÃ©dia,Sim,1 a 3 anos,ImÃ³vel,Jovem,Financiamento,Alto,1,0
+Sim,Aposentado,Parcial,Solteiro,Alta,NÃ£o,3 a 5 anos,Fiador,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Estudante,Integral,ViÃºvo,Alta,NÃ£o,1 a 3 anos,Outros,Jovem,CrÃ©dito Pessoal,Alto,1,0
+Sim,Aposentado,Parcial,Casado,Baixa,NÃ£o,1 a 3 anos,ImÃ³vel,Jovem,Financiamento,Baixo,0,0
+NÃ£o,Estudante,Parcial,Casado,Baixa,NÃ£o,1 a 3 anos,Fiador,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,AutÃ´nomo,Outros,Casado,Alta,Sim,Menos de 1 ano,Outros,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Aposentado,Integral,Divorciado,Alta,NÃ£o,Mais de 5 anos,Nenhuma,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Desempregado,Integral,Divorciado,Baixa,Sim,1 a 3 anos,Outros,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,AutÃ´nomo,Integral,Divorciado,Baixa,Sim,Mais de 5 anos,Outros,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Aposentado,Parcial,Divorciado,Alta,Sim,Mais de 5 anos,ImÃ³vel,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Aposentado,Integral,ViÃºvo,MÃ©dia,Sim,3 a 5 anos,Nenhuma,Idoso,CrÃ©dito Consignado,Baixo,0,0
+Sim,Estudante,Parcial,Casado,Alta,NÃ£o,1 a 3 anos,ImÃ³vel,Jovem,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Empregado,Parcial,ViÃºvo,MÃ©dia,NÃ£o,Menos de 1 ano,Outros,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Empregado,Integral,Solteiro,Baixa,NÃ£o,Menos de 1 ano,Fiador,Jovem,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,AutÃ´nomo,Outros,Divorciado,Baixa,Sim,1 a 3 anos,Outros,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Aposentado,Integral,Divorciado,Baixa,NÃ£o,3 a 5 anos,Fiador,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Desempregado,Integral,Casado,Baixa,Sim,Mais de 5 anos,ImÃ³vel,Adulto,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Empregado,Integral,Casado,Baixa,NÃ£o,Menos de 1 ano,Fiador,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,AutÃ´nomo,Parcial,Casado,Alta,NÃ£o,3 a 5 anos,ImÃ³vel,Idoso,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,AutÃ´nomo,Parcial,Solteiro,Baixa,Sim,1 a 3 anos,ImÃ³vel,Idoso,CrÃ©dito Consignado,Baixo,0,0
+Sim,Aposentado,Integral,ViÃºvo,Baixa,NÃ£o,Menos de 1 ano,Nenhuma,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Estudante,Parcial,Divorciado,Alta,NÃ£o,Mais de 5 anos,Outros,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Parcial,Casado,Baixa,Sim,Menos de 1 ano,ImÃ³vel,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Aposentado,Integral,Divorciado,Alta,Sim,1 a 3 anos,ImÃ³vel,Idoso,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Estudante,Parcial,ViÃºvo,Baixa,Sim,Menos de 1 ano,Fiador,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Aposentado,Outros,Divorciado,MÃ©dia,NÃ£o,1 a 3 anos,Nenhuma,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Desempregado,Integral,Divorciado,Alta,NÃ£o,3 a 5 anos,ImÃ³vel,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Desempregado,Integral,ViÃºvo,Baixa,Sim,3 a 5 anos,ImÃ³vel,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Desempregado,Parcial,Casado,MÃ©dia,NÃ£o,Menos de 1 ano,Nenhuma,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Aposentado,Integral,Divorciado,Baixa,Sim,Menos de 1 ano,Outros,Jovem,Financiamento,Baixo,0,0
+Sim,Empregado,Parcial,Divorciado,Baixa,NÃ£o,3 a 5 anos,ImÃ³vel,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Aposentado,Outros,Casado,Baixa,NÃ£o,1 a 3 anos,Fiador,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Aposentado,Parcial,Divorciado,Alta,NÃ£o,Menos de 1 ano,ImÃ³vel,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Desempregado,Integral,ViÃºvo,MÃ©dia,NÃ£o,Menos de 1 ano,Nenhuma,Jovem,Financiamento,MÃ©dio,0,0
+Sim,Empregado,Outros,Solteiro,Alta,NÃ£o,Menos de 1 ano,ImÃ³vel,Idoso,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Estudante,Parcial,Divorciado,MÃ©dia,NÃ£o,Menos de 1 ano,Nenhuma,Idoso,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Desempregado,Outros,ViÃºvo,Alta,NÃ£o,Menos de 1 ano,Fiador,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Estudante,Parcial,Divorciado,Baixa,Sim,Mais de 5 anos,Nenhuma,Jovem,Financiamento,Alto,1,0
+Sim,Aposentado,Outros,Casado,Alta,Sim,3 a 5 anos,ImÃ³vel,Jovem,Financiamento,Alto,1,0
+NÃ£o,Empregado,Integral,ViÃºvo,Baixa,NÃ£o,3 a 5 anos,Nenhuma,Jovem,Financiamento,MÃ©dio,0,0
+Sim,Desempregado,Outros,Divorciado,Alta,NÃ£o,3 a 5 anos,Nenhuma,Adulto,Financiamento,Baixo,0,0
+NÃ£o,Estudante,Outros,Divorciado,Alta,NÃ£o,Mais de 5 anos,Nenhuma,Jovem,CrÃ©dito Consignado,Baixo,0,0
+Sim,Aposentado,Parcial,ViÃºvo,Baixa,Sim,Menos de 1 ano,ImÃ³vel,Jovem,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Desempregado,Integral,ViÃºvo,Baixa,Sim,3 a 5 anos,Outros,Idoso,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Estudante,Parcial,Divorciado,MÃ©dia,Sim,3 a 5 anos,Fiador,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Desempregado,Parcial,Solteiro,Baixa,NÃ£o,Mais de 5 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Desempregado,Integral,Casado,MÃ©dia,Sim,1 a 3 anos,Nenhuma,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Empregado,Outros,Divorciado,Baixa,NÃ£o,3 a 5 anos,Nenhuma,Jovem,Financiamento,MÃ©dio,0,0
+NÃ£o,Estudante,Integral,ViÃºvo,MÃ©dia,NÃ£o,Mais de 5 anos,Nenhuma,Jovem,CrÃ©dito Consignado,Baixo,0,0
+Sim,Empregado,Outros,ViÃºvo,Alta,Sim,Mais de 5 anos,ImÃ³vel,Adulto,Financiamento,Alto,1,0
+NÃ£o,AutÃ´nomo,Integral,Divorciado,MÃ©dia,Sim,1 a 3 anos,Outros,Idoso,Financiamento,Alto,1,0
+NÃ£o,Aposentado,Integral,ViÃºvo,Alta,NÃ£o,1 a 3 anos,Fiador,Jovem,Financiamento,Alto,1,0
+NÃ£o,Aposentado,Outros,Divorciado,Baixa,NÃ£o,Mais de 5 anos,Fiador,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Aposentado,Integral,Divorciado,MÃ©dia,Sim,Menos de 1 ano,Fiador,Jovem,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Empregado,Outros,ViÃºvo,Alta,NÃ£o,Mais de 5 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,AutÃ´nomo,Integral,ViÃºvo,Alta,Sim,3 a 5 anos,Fiador,Idoso,Financiamento,Baixo,0,0
+Sim,Empregado,Outros,ViÃºvo,MÃ©dia,Sim,Mais de 5 anos,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,AutÃ´nomo,Outros,ViÃºvo,Alta,NÃ£o,3 a 5 anos,Nenhuma,Idoso,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Empregado,Parcial,Casado,MÃ©dia,Sim,1 a 3 anos,Fiador,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Estudante,Parcial,Casado,Alta,NÃ£o,3 a 5 anos,Nenhuma,Idoso,CrÃ©dito Pessoal,Alto,1,0
+Sim,Empregado,Parcial,ViÃºvo,Alta,NÃ£o,1 a 3 anos,ImÃ³vel,Jovem,Financiamento,MÃ©dio,0,0
+NÃ£o,Desempregado,Integral,Solteiro,MÃ©dia,Sim,3 a 5 anos,Nenhuma,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Estudante,Outros,ViÃºvo,MÃ©dia,Sim,3 a 5 anos,Outros,Idoso,Financiamento,MÃ©dio,0,0
+Sim,Empregado,Outros,Casado,MÃ©dia,NÃ£o,Mais de 5 anos,Outros,Adulto,Financiamento,MÃ©dio,0,0
+Sim,Aposentado,Parcial,Casado,Alta,Sim,Mais de 5 anos,Outros,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Estudante,Outros,Casado,MÃ©dia,Sim,3 a 5 anos,Fiador,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Aposentado,Outros,Divorciado,MÃ©dia,Sim,Menos de 1 ano,Outros,Jovem,Financiamento,Alto,1,0
+NÃ£o,Aposentado,Integral,ViÃºvo,MÃ©dia,NÃ£o,Mais de 5 anos,ImÃ³vel,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+Sim,AutÃ´nomo,Parcial,ViÃºvo,Baixa,NÃ£o,1 a 3 anos,Outros,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Desempregado,Outros,Divorciado,Baixa,Sim,1 a 3 anos,Nenhuma,Adulto,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Aposentado,Integral,Divorciado,Alta,Sim,1 a 3 anos,ImÃ³vel,Jovem,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Desempregado,Integral,Solteiro,Alta,NÃ£o,3 a 5 anos,Outros,Idoso,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,AutÃ´nomo,Parcial,Casado,MÃ©dia,NÃ£o,Mais de 5 anos,ImÃ³vel,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,AutÃ´nomo,Parcial,Divorciado,MÃ©dia,NÃ£o,Mais de 5 anos,Fiador,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Estudante,Parcial,Solteiro,Alta,Sim,3 a 5 anos,Outros,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,AutÃ´nomo,Parcial,Solteiro,Baixa,NÃ£o,3 a 5 anos,Outros,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Parcial,Casado,Baixa,Sim,Menos de 1 ano,Nenhuma,Adulto,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Empregado,Parcial,Casado,Baixa,NÃ£o,3 a 5 anos,ImÃ³vel,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Estudante,Parcial,ViÃºvo,Alta,Sim,Menos de 1 ano,Nenhuma,Jovem,CrÃ©dito Pessoal,Alto,1,0
+Sim,AutÃ´nomo,Parcial,Divorciado,Alta,Sim,Menos de 1 ano,ImÃ³vel,Idoso,Financiamento,Alto,1,0
+NÃ£o,AutÃ´nomo,Integral,Solteiro,Alta,Sim,3 a 5 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Desempregado,Outros,Solteiro,MÃ©dia,Sim,1 a 3 anos,Outros,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,AutÃ´nomo,Outros,ViÃºvo,MÃ©dia,Sim,3 a 5 anos,Outros,Adulto,Financiamento,Alto,1,0
+NÃ£o,Aposentado,Outros,Solteiro,Alta,Sim,3 a 5 anos,ImÃ³vel,Adulto,CrÃ©dito Consignado,Alto,1,0
+Sim,Estudante,Outros,ViÃºvo,Alta,NÃ£o,Menos de 1 ano,Outros,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Aposentado,Outros,ViÃºvo,MÃ©dia,NÃ£o,Menos de 1 ano,Fiador,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Aposentado,Parcial,Solteiro,MÃ©dia,NÃ£o,1 a 3 anos,Outros,Adulto,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Estudante,Parcial,Solteiro,Alta,Sim,3 a 5 anos,Outros,Adulto,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Empregado,Outros,ViÃºvo,Alta,Sim,3 a 5 anos,Fiador,Jovem,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Estudante,Outros,Casado,MÃ©dia,NÃ£o,Menos de 1 ano,Fiador,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,AutÃ´nomo,Outros,Solteiro,Baixa,NÃ£o,Menos de 1 ano,Fiador,Adulto,Financiamento,Alto,1,0
+NÃ£o,Estudante,Integral,Solteiro,Baixa,Sim,1 a 3 anos,Outros,Jovem,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Empregado,Outros,ViÃºvo,Baixa,NÃ£o,3 a 5 anos,Outros,Idoso,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Empregado,Outros,ViÃºvo,Baixa,NÃ£o,Menos de 1 ano,Fiador,Idoso,Financiamento,Baixo,0,0
+NÃ£o,Empregado,Outros,Divorciado,Baixa,Sim,3 a 5 anos,Outros,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Empregado,Outros,Casado,MÃ©dia,NÃ£o,Mais de 5 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Empregado,Integral,Casado,Alta,NÃ£o,3 a 5 anos,ImÃ³vel,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Estudante,Parcial,Solteiro,Baixa,NÃ£o,3 a 5 anos,Fiador,Idoso,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Aposentado,Parcial,Solteiro,Baixa,NÃ£o,1 a 3 anos,Outros,Adulto,Financiamento,MÃ©dio,0,0
+Sim,Estudante,Parcial,Casado,MÃ©dia,NÃ£o,1 a 3 anos,Nenhuma,Adulto,Financiamento,MÃ©dio,0,0
+NÃ£o,Aposentado,Integral,ViÃºvo,Baixa,Sim,Mais de 5 anos,Fiador,Adulto,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Estudante,Integral,ViÃºvo,Baixa,Sim,3 a 5 anos,ImÃ³vel,Adulto,CrÃ©dito Pessoal,Alto,1,0
+Sim,Aposentado,Parcial,ViÃºvo,Baixa,NÃ£o,1 a 3 anos,Fiador,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Desempregado,Parcial,Casado,Baixa,Sim,Mais de 5 anos,ImÃ³vel,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Aposentado,Parcial,Solteiro,Baixa,NÃ£o,Mais de 5 anos,Fiador,Jovem,Financiamento,MÃ©dio,0,0
+NÃ£o,Estudante,Parcial,Casado,Alta,Sim,Menos de 1 ano,Outros,Idoso,Financiamento,Alto,1,0
+Sim,AutÃ´nomo,Parcial,Casado,Baixa,NÃ£o,1 a 3 anos,Outros,Adulto,Financiamento,MÃ©dio,0,0
+NÃ£o,Aposentado,Parcial,Casado,Alta,NÃ£o,3 a 5 anos,Nenhuma,Jovem,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Aposentado,Outros,ViÃºvo,Alta,NÃ£o,Menos de 1 ano,Fiador,Adulto,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,AutÃ´nomo,Integral,Casado,MÃ©dia,NÃ£o,Menos de 1 ano,ImÃ³vel,Adulto,CrÃ©dito Pessoal,Alto,1,0
+Sim,AutÃ´nomo,Parcial,ViÃºvo,Baixa,Sim,Mais de 5 anos,Fiador,Jovem,Financiamento,Alto,1,0
+Sim,Desempregado,Parcial,Divorciado,Alta,Sim,1 a 3 anos,Outros,Idoso,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Empregado,Parcial,Solteiro,Baixa,NÃ£o,1 a 3 anos,Fiador,Jovem,CrÃ©dito Consignado,Baixo,0,0
+Sim,Aposentado,Parcial,Divorciado,MÃ©dia,Sim,Menos de 1 ano,Fiador,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Desempregado,Outros,Divorciado,Baixa,NÃ£o,Mais de 5 anos,Nenhuma,Jovem,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Estudante,Integral,ViÃºvo,MÃ©dia,NÃ£o,Menos de 1 ano,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Empregado,Integral,Solteiro,Baixa,Sim,3 a 5 anos,Outros,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Desempregado,Outros,Solteiro,MÃ©dia,Sim,3 a 5 anos,Nenhuma,Jovem,Financiamento,Baixo,0,0
+NÃ£o,Estudante,Parcial,ViÃºvo,Alta,Sim,3 a 5 anos,ImÃ³vel,Idoso,Financiamento,MÃ©dio,0,0
+Sim,Empregado,Outros,Casado,Baixa,NÃ£o,Menos de 1 ano,Outros,Jovem,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Estudante,Outros,Divorciado,MÃ©dia,NÃ£o,Menos de 1 ano,ImÃ³vel,Idoso,CrÃ©dito Consignado,Baixo,0,0
+Sim,Estudante,Outros,Solteiro,MÃ©dia,Sim,3 a 5 anos,ImÃ³vel,Idoso,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Aposentado,Integral,Divorciado,Alta,Sim,3 a 5 anos,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Aposentado,Integral,Solteiro,Alta,Sim,1 a 3 anos,Outros,Adulto,CrÃ©dito Consignado,Alto,1,0
+Sim,Empregado,Parcial,Casado,MÃ©dia,NÃ£o,3 a 5 anos,Nenhuma,Jovem,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,AutÃ´nomo,Integral,Solteiro,Alta,Sim,1 a 3 anos,Outros,Idoso,Financiamento,Alto,1,0
+Sim,Desempregado,Integral,ViÃºvo,Baixa,Sim,Menos de 1 ano,Fiador,Jovem,CrÃ©dito Consignado,Alto,1,0
+Sim,Desempregado,Integral,Divorciado,Baixa,NÃ£o,1 a 3 anos,ImÃ³vel,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Empregado,Integral,Casado,Alta,Sim,Menos de 1 ano,ImÃ³vel,Idoso,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Empregado,Integral,Solteiro,Alta,Sim,Menos de 1 ano,ImÃ³vel,Jovem,Financiamento,Alto,1,0
+Sim,Desempregado,Outros,Divorciado,Baixa,Sim,Mais de 5 anos,Outros,Adulto,Financiamento,Alto,1,0
+NÃ£o,Estudante,Parcial,ViÃºvo,MÃ©dia,Sim,Menos de 1 ano,Nenhuma,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Estudante,Integral,Casado,Baixa,Sim,Mais de 5 anos,Fiador,Adulto,Financiamento,Alto,1,0
+NÃ£o,Desempregado,Outros,Divorciado,Alta,NÃ£o,Mais de 5 anos,Fiador,Jovem,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Estudante,Outros,Casado,Baixa,Sim,1 a 3 anos,Nenhuma,Idoso,Financiamento,MÃ©dio,0,0
+Sim,Estudante,Outros,ViÃºvo,Baixa,NÃ£o,Mais de 5 anos,Outros,Jovem,Financiamento,Baixo,0,0
+Sim,Estudante,Outros,Casado,Baixa,NÃ£o,Menos de 1 ano,ImÃ³vel,Jovem,Financiamento,Baixo,0,0
+NÃ£o,Aposentado,Integral,Casado,Alta,NÃ£o,1 a 3 anos,Outros,Adulto,Financiamento,Alto,1,0
+Sim,Estudante,Outros,ViÃºvo,MÃ©dia,NÃ£o,1 a 3 anos,Outros,Adulto,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Estudante,Outros,ViÃºvo,Baixa,NÃ£o,Menos de 1 ano,ImÃ³vel,Idoso,Financiamento,Baixo,0,0
+NÃ£o,Desempregado,Outros,Solteiro,Alta,NÃ£o,1 a 3 anos,Outros,Jovem,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Aposentado,Outros,ViÃºvo,Alta,Sim,3 a 5 anos,Outros,Jovem,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Aposentado,Parcial,Divorciado,MÃ©dia,Sim,3 a 5 anos,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Aposentado,Outros,Casado,Baixa,Sim,Mais de 5 anos,Fiador,Jovem,Financiamento,MÃ©dio,0,0
+Sim,AutÃ´nomo,Outros,Solteiro,Baixa,NÃ£o,Menos de 1 ano,ImÃ³vel,Adulto,CrÃ©dito Pessoal,Alto,1,0
+Sim,Desempregado,Parcial,Solteiro,Baixa,NÃ£o,1 a 3 anos,Outros,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Estudante,Integral,Casado,Alta,Sim,1 a 3 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,Estudante,Parcial,Solteiro,Alta,Sim,3 a 5 anos,Fiador,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+Sim,Aposentado,Outros,Casado,MÃ©dia,NÃ£o,3 a 5 anos,Nenhuma,Idoso,Financiamento,MÃ©dio,0,0
+NÃ£o,Desempregado,Integral,Solteiro,MÃ©dia,NÃ£o,Mais de 5 anos,Fiador,Idoso,CrÃ©dito Pessoal,Alto,1,0
+Sim,AutÃ´nomo,Parcial,Divorciado,Baixa,Sim,1 a 3 anos,Nenhuma,Adulto,Financiamento,Alto,1,0
+NÃ£o,AutÃ´nomo,Parcial,Divorciado,Alta,Sim,1 a 3 anos,Fiador,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,Empregado,Integral,Solteiro,Alta,Sim,Menos de 1 ano,Outros,Jovem,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Empregado,Parcial,Casado,Baixa,NÃ£o,Menos de 1 ano,Fiador,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Estudante,Parcial,Casado,MÃ©dia,Sim,1 a 3 anos,Outros,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Empregado,Parcial,Solteiro,Baixa,NÃ£o,Mais de 5 anos,Fiador,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Estudante,Parcial,Divorciado,Alta,Sim,Menos de 1 ano,Outros,Idoso,Financiamento,Baixo,0,0
+NÃ£o,AutÃ´nomo,Outros,Divorciado,MÃ©dia,Sim,1 a 3 anos,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+NÃ£o,Desempregado,Integral,ViÃºvo,MÃ©dia,NÃ£o,Mais de 5 anos,Nenhuma,Jovem,Financiamento,Baixo,0,0
+NÃ£o,Empregado,Outros,Casado,Baixa,NÃ£o,3 a 5 anos,Outros,Idoso,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,AutÃ´nomo,Parcial,Solteiro,Alta,NÃ£o,3 a 5 anos,ImÃ³vel,Jovem,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Empregado,Outros,Casado,Baixa,Sim,1 a 3 anos,Fiador,Jovem,Financiamento,Baixo,0,0
+Sim,Estudante,Integral,Casado,Alta,NÃ£o,3 a 5 anos,Fiador,Jovem,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Empregado,Integral,Casado,MÃ©dia,NÃ£o,Menos de 1 ano,Nenhuma,Jovem,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,AutÃ´nomo,Integral,Solteiro,MÃ©dia,NÃ£o,1 a 3 anos,Fiador,Idoso,CrÃ©dito Consignado,Alto,1,0
+NÃ£o,Estudante,Outros,Casado,Alta,Sim,1 a 3 anos,Outros,Jovem,CrÃ©dito Pessoal,Baixo,0,0
+NÃ£o,Aposentado,Parcial,ViÃºvo,Baixa,NÃ£o,1 a 3 anos,Fiador,Idoso,CrÃ©dito Pessoal,Alto,1,0
+Sim,AutÃ´nomo,Parcial,Solteiro,Baixa,NÃ£o,1 a 3 anos,Fiador,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Empregado,Parcial,Casado,Baixa,Sim,3 a 5 anos,Nenhuma,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Aposentado,Outros,Casado,MÃ©dia,NÃ£o,Mais de 5 anos,ImÃ³vel,Idoso,Financiamento,MÃ©dio,0,0
+Sim,Estudante,Integral,Divorciado,MÃ©dia,NÃ£o,Menos de 1 ano,ImÃ³vel,Jovem,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Aposentado,Parcial,Casado,Baixa,Sim,Mais de 5 anos,Outros,Jovem,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,Aposentado,Integral,Casado,Alta,Sim,1 a 3 anos,Fiador,Jovem,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,AutÃ´nomo,Integral,Casado,Baixa,NÃ£o,1 a 3 anos,Nenhuma,Idoso,Financiamento,Alto,1,0
+Sim,Estudante,Parcial,Solteiro,MÃ©dia,NÃ£o,Mais de 5 anos,ImÃ³vel,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Estudante,Outros,Solteiro,MÃ©dia,Sim,1 a 3 anos,Fiador,Adulto,Financiamento,Alto,1,0
+NÃ£o,AutÃ´nomo,Parcial,Casado,Alta,Sim,Mais de 5 anos,Outros,Idoso,CartÃ£o de CrÃ©dito,MÃ©dio,0,0
+Sim,AutÃ´nomo,Outros,Divorciado,MÃ©dia,NÃ£o,3 a 5 anos,Outros,Idoso,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,AutÃ´nomo,Parcial,ViÃºvo,Baixa,NÃ£o,1 a 3 anos,ImÃ³vel,Jovem,Financiamento,Baixo,0,0
+Sim,Estudante,Outros,Divorciado,Baixa,Sim,3 a 5 anos,Nenhuma,Adulto,CrÃ©dito Consignado,MÃ©dio,0,0
+NÃ£o,Aposentado,Integral,Divorciado,MÃ©dia,Sim,3 a 5 anos,Nenhuma,Jovem,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Empregado,Integral,Casado,MÃ©dia,Sim,Menos de 1 ano,Outros,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+Sim,Estudante,Outros,Solteiro,Alta,NÃ£o,Mais de 5 anos,ImÃ³vel,Idoso,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Estudante,Integral,Divorciado,Baixa,NÃ£o,1 a 3 anos,ImÃ³vel,Idoso,CrÃ©dito Pessoal,Alto,1,0
+NÃ£o,Empregado,Outros,Solteiro,MÃ©dia,NÃ£o,Menos de 1 ano,Nenhuma,Idoso,Financiamento,Alto,1,0
+Sim,AutÃ´nomo,Outros,ViÃºvo,Baixa,Sim,1 a 3 anos,Outros,Jovem,Financiamento,Alto,1,0
+NÃ£o,Empregado,Outros,Divorciado,Alta,Sim,Menos de 1 ano,Nenhuma,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Estudante,Outros,Casado,MÃ©dia,Sim,Mais de 5 anos,Nenhuma,Jovem,CartÃ£o de CrÃ©dito,Baixo,0,0
+Sim,Desempregado,Parcial,Solteiro,Alta,NÃ£o,1 a 3 anos,Nenhuma,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+NÃ£o,Desempregado,Parcial,ViÃºvo,Alta,NÃ£o,3 a 5 anos,Outros,Jovem,CrÃ©dito Consignado,Baixo,0,0
+NÃ£o,Desempregado,Integral,Divorciado,MÃ©dia,Sim,3 a 5 anos,Fiador,Adulto,CrÃ©dito Pessoal,MÃ©dio,0,0
+Sim,AutÃ´nomo,Outros,Divorciado,Alta,Sim,3 a 5 anos,Outros,Jovem,Financiamento,MÃ©dio,0,0
+Sim,Estudante,Parcial,ViÃºvo,Baixa,Sim,3 a 5 anos,Nenhuma,Adulto,Financiamento,MÃ©dio,0,0
+Sim,Estudante,Outros,Casado,Baixa,NÃ£o,3 a 5 anos,Outros,Idoso,CartÃ£o de CrÃ©dito,Alto,1,0
+NÃ£o,Aposentado,Parcial,Casado,Baixa,Sim,1 a 3 anos,Fiador,Jovem,CrÃ©dito Pessoal,Baixo,0,0
+Sim,Desempregado,Integral,ViÃºvo,MÃ©dia,Sim,Menos de 1 ano,ImÃ³vel,Adulto,CartÃ£o de CrÃ©dito,Baixo,0,0
+NÃ£o,AutÃ´nomo,Outros,Casado,Alta,Sim,Menos de 1 ano,Outros,Adulto,CrÃ©dito Consignado,Alto,1,0
